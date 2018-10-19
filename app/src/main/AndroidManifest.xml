@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anisahnurulazhar.learnarabic">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/a"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            9yy
+        </activity>
+        <activity android:name=".Mufradat" />
+        <activity android:name=".Khiwar" />
+        <activity android:name=".Translate" />
+        <activity android:name=".Detail" />
+        <activity android:name=".Perkenalan1" />
+        <activity android:name=".Perkenalan2" />
+        <activity android:name=".Kebangsaan1" />
+        <activity android:name=".Kebangsaan2" />
+        <activity android:name=".Profesi1" />
+        <activity android:name=".Profesi2" />
+        <activity android:name=".Keluarga" />
+        <activity android:name=".SilsilahKeturunan" />
+        <activity android:name=".TempatTinggal" />
+        <activity android:name=".Apartement" />
+        <activity android:name=".PerabotRumah" />
+        <activity android:name=".PagiHari" />
+        <activity android:name=".Libur" />
+        <activity android:name=".MakanPokok" />
+        <activity android:name=".Makanan" />
+        <activity android:name=".NahwuShorof" />
+        <activity android:name=".PengertianNahwuShorof" />
+        <activity android:name=".JenisKataDalamBahasaArab" />
+        <activity android:name=".Isim" />
+        <activity android:name=".IsimBerdasarkanJenis" />
+        <activity android:name=".IsimBerdasarkanBilangan" />
+        <activity android:name=".IsimBerdasarkanKejelasan" />
+        <activity android:name=".IsimBerdasarkanPerubahanHarakatAkhir" />
+        <activity android:name=".Fiil" />
+        <activity android:name=".Dhomir" />
+        <activity android:name=".Tashrif" />
+        <activity android:name=".IsimIsyarah" />
+        <activity android:name=".HarfuJar" />
+        <activity android:name=".JumlahKalimat" />
+        <activity android:name=".Mubtada" />
+        <activity android:name=".Khabar" />
+        <activity android:name=".Warna" />
+        <activity android:name=".Transportasi" />
+        <activity android:name=".Hari" />
+        <activity android:name=".Sekolah" />
+        <activity android:name=".Profesi" />
+        <activity android:name=".Rumah" />
+        <activity android:name=".Pakaian" />
+        <activity android:name=".Bulan" />
+        <activity android:name=".AnggotaTubuh" />
+        <activity android:name=".Waktu"></activity>
+    </application>
+
+</manifest>

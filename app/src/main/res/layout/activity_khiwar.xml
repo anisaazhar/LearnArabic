@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_khiwar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/background"
+    tools:context="com.anisahnurulazhar.learnarabic.Khiwar">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Perkenalan 1"
+            android:id="@+id/perkenalan1"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Perkenalan 2"
+            android:id="@+id/perkenalan2"
+            android:layout_below="@id/perkenalan1"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kebangsaan 1"
+            android:id="@+id/kebangsaan1"
+            android:layout_below="@id/perkenalan2"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kebangsaan 2"
+            android:id="@+id/kebangsaan2"
+            android:layout_below="@id/kebangsaan1"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Profesi 1"
+            android:id="@+id/profesi1"
+            android:layout_below="@id/kebangsaan2"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Profesi 2"
+            android:id="@+id/profesi2"
+            android:layout_below="@id/profesi1"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Keluarga"
+            android:id="@+id/keluarga"
+            android:layout_below="@id/profesi2"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Silsilah Keturunan"
+            android:id="@+id/silsilahketurunan"
+            android:layout_below="@id/keluarga"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tempat Tinggal"
+            android:id="@+id/tempattinggal"
+            android:layout_below="@id/silsilahketurunan"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Apartement"
+            android:id="@+id/apartement"
+            android:layout_below="@id/tempattinggal"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Perabot Rumah"
+            android:id="@+id/perabotrumah"
+            android:layout_below="@id/apartement"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pagi Hari"
+            android:id="@+id/pagihari"
+            android:layout_below="@id/perabotrumah"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Libur"
+            android:id="@+id/libur"
+            android:layout_below="@id/pagihari"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Makan Pokok"
+            android:id="@+id/makanpokok"
+            android:layout_below="@id/libur"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Makanan"
+            android:id="@+id/makanan"
+            android:layout_below="@id/makanpokok"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginBottom="10dp"/>
+
+
+    </RelativeLayout>
+</ScrollView>

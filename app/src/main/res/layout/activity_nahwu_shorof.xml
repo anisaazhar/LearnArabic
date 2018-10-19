@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_nahwu_shorof"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/background"
+    tools:context="com.anisahnurulazhar.learnarabic.NahwuShorof">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_width="600dp"
+            android:layout_height="290dp"
+            android:src="@drawable/nsa"
+            android:id="@+id/img"
+            />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pengertian Ilmu Nahwu Shorof"
+        android:id="@+id/pengertian"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="300dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jenis Kata Dalam Bahasa Arab"
+        android:id="@+id/jeniskata"
+        android:layout_below="@+id/pengertian"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Isim"
+        android:id="@+id/isim"
+        android:layout_below="@+id/jeniskata"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pembagian Isim Berdasarkan Jenisnya"
+        android:id="@+id/jenis"
+        android:layout_below="@+id/isim"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pembagian Isim Berdasarkan Bilangannya"
+        android:id="@+id/bilangan"
+        android:layout_below="@+id/jenis"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pembagian Isim Berdasarkan Kejelasannya"
+            android:id="@+id/kejelasan"
+            android:layout_below="@+id/bilangan"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginTop="12dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pembagian Isim Berdasarkan Perubahan Harakat Akhir"
+            android:id="@+id/perubahan"
+            android:layout_below="@+id/kejelasan"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginTop="12dp"
+            />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fiil"
+        android:id="@+id/fiil"
+        android:layout_below="@+id/perubahan"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dhomir"
+        android:id="@+id/dhomir"
+        android:layout_below="@+id/fiil"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tashrif"
+        android:id="@+id/tashrif"
+        android:layout_below="@+id/dhomir"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Isim Isyaroh"
+        android:id="@+id/isimisyaroh"
+        android:layout_below="@+id/tashrif"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="12dp"
+        />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Harfu Jar"
+            android:id="@+id/harfujar"
+            android:layout_below="@+id/isimisyaroh"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginTop="12dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jumlah Kalimat"
+            android:id="@+id/jumlahkalimat"
+            android:layout_below="@+id/harfujar"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginTop="12dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mubtada"
+            android:id="@+id/mubtada"
+            android:layout_below="@+id/jumlahkalimat"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginTop="12dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Khobar"
+            android:id="@+id/khobar"
+            android:layout_below="@+id/mubtada"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginTop="12dp"
+            />
+
+
+
+    </RelativeLayout>
+
+
+</ScrollView>

@@ -1,0 +1,2519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Learn Arabic</string>
+
+    <string name="mufradathari">
+    Nama Hari :\n\n
+    Hari Ahad ( يَوْمُ الأَحَدِ ) = yaumu-l-ahadi\n
+    Hari Senin ( يَوْمُ الإِثْنَيْنِ )= yaumu-l-itsnaaini\n
+    Hari Selasa ( يَوْمُ الثُّلَاثَاءِ )= yaumu-ts-tsulaatsaa-i\n
+    Hari Rabu ( يَوْمُ الأَرْبِعَاءِ )= yaumu-l-arbi\'aa-i\n
+    Hari Kamis ( يَوْمُ الخَمِيْسِ )= yaumu-l-khamiisi\n
+    Hari Jum\'at ( يَوْمُ الجُمُعَةِ )= yaumu-l-jumu\'ati\n
+    Hari Sabtu ( يَوْمُ السَّبْتِ )= yaumu-s-sabti\n\n
+    Itulah nama-nama hari dalam bahasa Arab. Dan sebagai materi tambahan, saya sajikan beberapa kosakata berikut:\n\n
+
+    Hari libur ( ِيَوْمُ العُطْلَة ) = yaumu-l-\'uthlati\n
+    Hari kerja ( ِيَوْمُ العَمَل ) = yaumu-l-\'amali\n
+    Hari raya ( ِيَوْمُ العِيْد ) = yaumu-l-\'iidi\n
+    Hari lahir ( ِيَوْمُ المِيْلَاد ) = yaumu-l-milaadi\n
+    hari wafat ( ِيَوْمُ الوَفَاة ) = yaumu-l-\'wafaati\n
+    Hari ini ( َهَذَا اليَوْم ) = haadza-l-yauma\n
+    Kemaren ( ِأَمْس ) = amsi\n
+    Besok ( غَدًا ) = ghadan\n
+    Esok lusa ( ِبَعْدَ يَوْمَيْن ) = ba\'da yawmaini\n
+    Kemaren lusa ( ِقَبْلَ يَوْمَيْن ) = qabla yawmaini\n
+    Pekan ( ُأُسْبُوْعٌ جـ أَسَابِيْع ) = usbuu\'un jim asaabii\'u\n
+    Pada suatu hari ( فِي يَوْمٍ مِنَ الأَيَّامِ ) = fii yawmin minal-ayyaami\n
+    Hari demi hari ( يَوْمًا فًيَوْمًا ) = yawman fayawman\n
+    Pada hari itu ( فَيَوْمَئِذٍ ) = fayawmaidzin\n
+    </string>
+
+     <string name="mufradatwarna">
+    Nama Nama Warna :\n\n
+    Warna ( لَوْنٌ جـ أَلْوَانٌ ) lawnun jim alwaanun.\n
+    Putih ( ُأَبْيَض ) abyadhu dan ( ُبَيْضَاء ) baydhaa\`u.\n
+    Hitam ( ُأَسْوَد ) aswadu dan ( ُسَوْدَاء ) sawdaa\`u.\n
+    Merah ( ُأَحْمَر ) ahmaru dan ( ُحَمْرَاء ) hamraa\`u.\n
+    Merah muda/pink ( ٌّوَرْدِي ) wardiyyun dan ( ٌوَرْدِيَّة ) wardiyyatun.\n
+    Biru ( ُأَزْرَق ) azraqu dan ( ُزَرْقَاء ) zarqaa\`u.\n
+    Hijau ( ُأَخْضَر ) akhdharu dan ( ُخَضْرَاء ) khadhraa\`u.\n
+    Kuning ( ُأَصْفَر ) ashfaru dan ( ُصَفْرَاء ) shafraa\`u.\n
+    Orange ( ٌّبُرْتُقَالِي ) dan ( ٌبُرْتُقَالِيَّة ).\n
+    Ungu ( ٌّبَنَفْسَجِي ) dan ( ٌبَنَفْسَجِيَّة ).\n
+    Abu-Abu ( ٌّرَمَادِي ) dan ( ٌرَمَادِيَّة ).\n
+    Coklat ( ٌّبُنِّي ) dan ( ٌبُنِّيَّة ).\n\n
+
+    Mufradat tentang warna dalam bahasa Arab merupakan kata sifat,
+    dan menempati 2 (dua) kedudukan dalam susunan kalimat (tarkiib),
+    yaitu sebagai khabar untuk mubtada\' dan shifah na\'at.\n\n
+
+    Khabar dan shifah harus menyesuaikan kata sebelumnya. Jika mubtada\'
+    berbentuk mudzakkar, maka khabar harus mudzakkar, dan sebaliknya. \n
+    Kaidah ini berlaku juga pada shifah (sifat) dengan mawshuf-nya (yang disifati).\n\n
+
+    Untuk lebih mudah dimengerti, silahkan lihat contoh di bawah ini:\n
+    Contoh sebagai khabar:\n
+     - Kemejanya biru ( ُالقَمِيْصُ أَزْرَق ).\n
+     - Mobilnya biru ( ُالسَّيَّارَةُ زَرْقَاء ).\n\n
+
+    Ket:\n
+    Kemeja dan mobil sama-sama berwarna biru.
+    Namun karena secara lafal kemeja mudzakkar (laki-laki) dan mobil muannats (perempuan),
+    maka warna biru mengikuti kata sebelumnya.\n\n
+    Contoh sebagai shifah:\n
+    Ini buku hijau ( ُهَذَا كِتَابٌ أَخْضَر ).\n
+    Ini daun hijau ( ُهَذِهِ وَرَقَةٌ خَضْرَاء ).\n\n
+
+    Ket:\n
+    Buku dan daun sama-sama berwarna hijau.
+    Namun karena secara lafal buku mudzakkar (laki-laki) dan daun muannats (perempuan),
+    maka warna hijau mengikuti kata sebelumnya.\n\n
+    Lalu, bagaimana cara menanyakan warna,
+    atau warna benda dalam bahasa Arab? Untuk lebih jelasnya, mari lihat contoh berikut:\n
+    1.Warna apa ini? ( أَيُّ لَوْنٍ هَذَا ؟ )\n
+    2.Ini warna hitam. ( ِهَذَا لَوْنُ الأَسْوَد )\n
+    3.Apa warna kertas ini? ( مَا لَوْنُ هَذَا القِرْطَاسِ ؟ )\n
+    4.Warna kertas ini putih. ( ٌلَوْنُ هَذَا القِرْطَاسِ أَبْيَض )\n
+    </string>
+
+    <string name="mufradattransportasi">
+
+    Nama Nama Transportasi :\n\n
+    Mobil ( ٌسَيَّارَةٌ جـ سَيَّارَات ). \n
+    Motor ( ٌدَرَّاجَةٌ نَارِيَّة ). \n
+    Sepeda ( ٌدَرَّاجَةٌ هَوَائِيَّة ). \n
+    Pesawat ( ٌطَائِرَةٌ جـ طَائِرَات ). \n
+    Pesawat Tempur ( ٌطَائِرَةٌ حَرْبِيَّة ). \n
+    Kapal ( ٌسَفِيْنَةٌ جـ سُفُن ). \n
+    Kapal Selam ( ٌغَوَّاصَةٌ جـ غَوَّاصَات ). \n
+    Perahu ( ُمَرْكَبٌ جـ مَرَاكِب ). \n
+    Kereta ( ٌقِطَارٌ جـ قِطَارَات ). \n
+    Bus ( ٌحَافِلَةٌ جـ حَافِلَات ). \n
+    Truk ( ٌشَاحِنَةٌ جـ شَاحِنَات ). \n
+    Tank ( ٌدَبَّابَةٌ جـ دَبَّابَات ). \n
+    Taksi ( ِسَيَّارَةُ الأُجْرَة ). \n
+    Ambulance ( ِسَيَّارَةُ الإِسْعَاف ). \n
+    Gerobak ( ٌعَرَبَةٌ جـ عَرَبَات ). \n
+    Transportasi Darat ( ٌمُوَاصَلَاتٌ بَرِّيَّة ). \n
+    Transportasi Udara ( ٌمُوَاصَلَاتٌ جَوِّيَّة ). \n
+    Transportasi Laut ( ٌمُوَاصَلَاتٌ بَحْرِيَّة ). \n
+    Rel ( ُالسِّكَّةُ الحَدِيْدِيَّة ). \n
+    Terminal ( ِمَحَطَّةُ الحَافِلَات ).\n 
+    Stasiun ( ِمَحَطَّةُ القِطَارَات ). \n
+    Pelabuhan ( ُمِيْنَاءٌ جـ مَوَانِئ ).\n
+    </string>
+
+    <string name="mufradatsekolah">
+    Seputar sekolah :\n\n
+
+    Ruangan ( ٌغُرْفَةٌ جـ غُرَف ). \n
+    Sekolah ( ُمَدْرَسَةٌ جـ مَدَارِس ). \n
+    Kantor Kepala Sekolah ( ِمَكْتَبُ مُدِيْرِ المَدْرَسِة ). \n
+    Kantor Guru ( َمَكْتَبُ المُدَرِّسِيْن ).\n
+     Perpustakaan ( ٌمَكْتَبَةٌ جـ مَكْتَبَات ). \n
+    Kantin ( ُمَقْصَفٌ جـ مَقَاصِف ). \n
+    Kamar Mandi ( ٌحَمَّامٌ جـ حَمَّامَات ). \n
+    Masjid ( ُمَسْجِدٌ جـ مَسَاجِد ). \n
+    Mushalla ( ٌمُصَلَّى جـ مُصَلّيَات ). \n
+    Laboratorium Bahasa ( ِمَعْمَلُ اللُّغَة ). \n
+    Laboratorium IPA ( ِمَعْمَلُ العُلُوْم ). \n
+    Tempat Penelitian/Praktek ( ٌمُخْتَبَرٌ جـ مُخْتَبَرَات ). \n
+    Lapangan ( ُمَلْعَبٌ جـ مَلَاعِب ). \n
+    Halaman Sekolah ( ِسَاحَةُ المَدْرَسَة ). \n
+    Kelas ( ٌفَصْلٌ جـ فُصُوْل ). \n
+    Teras ( ٌفِنَاءٌ جـ أَفْنِيَة ). \n
+    Aula ( ٌقَاعَةٌ جـ قَاعَات ). \n
+    Ruang Rapat ( ِقَاعَةُ الاِجْتِمَاع ). \n
+    Lobby/Ruang Tunggu ( ِصَالَةُ الاِنْتِظَار ). \n
+    Ruang Tamu ( ِقَاعَةُ الضُّيُوْف ). \n
+    UKS ( ٌوِحْدَةٌ صِحِّيَّة ). \n
+    Pos Satpam ( ُمَخْفَرٌ جـ مَخَافِر ). \n
+    Pintu Gerbang ( ٌبَوَّابَةٌ جـ بَوَّابَات ). \n
+    Tempat Parkir Mobil ( ِمَوْقِفُ السَّيَّارَات ). \n
+    Tempat Parkir Motor ( ِمَوْقِفُ الدَّرَّاجَات ). \n
+    Seragam ( زِيٌّ جـ أَزْيَاءٌ ) ziyyun jim azyaa\`un. \n
+    Tas ( حَقِيْبَةٌ جـ حَقَائِبُ ) haqiibatun jim haqaa\`ibu. \n
+    Botol minuman ( قَارُوْرَةُ المَاءِ ) qaaruuratul-maa\`i. \n
+    Buku ( كِتَابٌ جـ كُتُبٌ ) kitaabun jim kutubun. \n
+    Buku tulis ( دَفْتَرٌ جـ دَفَاتِرُ ) daftarun jim dafaatiru. \n
+    Pena ( قَلَمٌ جـ أَقْلَامٌ ) qalamun jim aqlaamun. \n
+    Tempat pensil ( مِقْلَمَةٌ جـ مَقَالِمٌ ) miqlamatun jim maqaalimu. \n
+    Penggaris ( مِسْطَرَةٌ جـ مَسَاطِرُ ) mistharatun jim masaathiru. \n
+    Rautan ( مِبْرَاةٌ جـ مَبَارٍ ) mibraatun jim mabaarin.\n
+    </string>
+
+    <string name="mufradatrumah">
+
+    Seputar rumah :\n\n
+    Rumah ( بَيْتٌ جـ بُيُوْتٌ ) baytun jim buyuutun. \n
+    Pondasi ( أَسَاسٌ جـ أُسُسٌ ) asaasun jim ususun. \n
+    Tembok ( جِدَارٌ جـ جُدُرٌ ) jidaarun jim judurun. \n
+    Atap ( سَقْفٌ جـ سُقُوْفٌ ) saqfun jim suquufun. \n
+    Lantai ( بَلَاطَةٌ جـ بَلَاطٌ ) balaathatun jim balaathun. \n
+    Pintu ( بَابٌ جـ أَبْوَابٌ ) baabun jim abwaabun. \n
+    Jendela ( نَافِذَةٌ جـ نَوَافِذُ ) naafidzatun jim nawaafidzu. \n
+    Kamar ( غُرْفَةٌ جـ غُرَفٌ ) ghurfatun jim ghurafu. \n
+    Dapur ( مَطْبَخٌ جـ مَطَابِخُ ) mathbakhun jim mathaabikhu. \n
+    Teras ( فِنَاءٌ جـ أَفْنِيَةٌ ) finaa\`un jim afniyatun. \n
+    Halaman ( سَاحَةٌ جـ سَاحَاتٌ ) saahatun jim saahaatun. \n
+    Pagar ( سُوْرٌ جـ أَسْوَارٌ ) suurun jim aswaarun. \n
+    Tingkat ( دُوْرٌ جـ أَدْوَارٌ ) duurun jim adwaarun. \n
+    Tangga ( سُلَّمٌ جـ سَلَالِمُ ) sullamun jim salaalimu. \n
+    Tiang ( عَمُوْدٌ جـ أَعْمِدَةٌ ) \'amuudun jim a\'midatun. \n
+    Perabotan ( أَثَاثٌ جـ أَثَاثَاتٌ ) astaatsun jim atsaatsaatun. \n
+    Meja ( مَكْتَبٌ جـ مَكَاتِبُ ) maktabun jim makaatibu. \n
+    Kursi ( كُرْسِيٌّ جـ كَرَاسِيُّ ) kursiyyun jim karaasiyyu.\n 
+    Lemari ( خِزَانَةٌ جـ خَزَائِنُ ) khizaanatun jim khazaa\`inu. \n
+    Ranjang ( سَرِيْرٌ جـ سُرُرٌ ) sariirun jim sururun. \n
+    Kipas ( مِرْوَحَةٌ جـ مَرَاوِحُ ) mirwahatun jim maraawihu. \n
+    Cermin ( مِرْآةٌ جـ مَرَايَا ) mir\`aatun jim maraayaa. \n
+    Sofa ( أَرِيْكَةٌ جـ أَرَائِكُ ) ariikatun jim araa\`iku. \n
+    Lampu ( مِصْبَاحٌ جـ مَصَابِيْحُ ) mishbaahun jim mashaabiihu. \n
+    Kunci ( مِفْتَاحٌ جـ مَفَاتِيْحُ ) miftaahun jim mafaatiihu.  \n
+    </string>
+
+    <string name="mufradatprofesi">
+    Profesi :\n\n
+    Pak Kepala Sekolah ( مُدِيْرُ المَدْرَسَةِ ج مُدَرَاءٌ المَدَارِسِ ). \n
+    Bu Kepala Sekolah ( مُدِيْرَةُ المَدْرَسَةِ ج مُدِيْرَاتٌ المَدَارِسِ ). \n
+    Pengajar/Dosen (L) ( مُدَرِّسٌ ج مُدَرِّسُوْن ). \n
+    Pengajar/Dosen (P) ( مُدَرِّسَةٌ ج مُدَرِّسَاتٌ ). \n
+    Pak Guru ( مُعَلِّمٌ ج مُعَلِّمُوْنَ ). \n
+    Bu Guru ( مُعَلِّمَةٌ ج مُعَلِّمَاتٌ ). \n
+    Murid (L) ( تِلْمِيْذٌ ج تَلَامِيْذُ ). \n
+    Murid (P) ( تِلْمِيْذَةٌ ج تِلْمِيْذَاتٌ ). \n
+    Siswa ( طَالِبٌ ج طُلَّابٌ ). \n
+    Siswi ( طَالِبَةٌ ج طَالِبَاتٌ ). \n
+    Mahasiswa ( طَالِبُ الجَامِعَةِ ج طُلَّابُ الجَامِعَاتِ ).\n
+     Mahasiswi ( طَالِبَةُ الجَامِعَةِ ج طَالِبَاتُ الجَامِعَات ). \n
+    Doktor (L) ( دُكْتُوْرٌ ج دَكَاتِرَةٌ ). \n
+    Doktor (P) ( دُكْتُوْرَةٌ ج دُكْتُوْرَاتٌ ). \n
+    Profesor (L) ( أُسْتَاذٌ ج أَسَاتِذَةٌ ). \n
+    Profesor (P) ( أُسْتَاذَةٌ ج أُسْتَاذَاتٌ ). \n
+    Ketua Kelas (L) ( رَئِيْسُ الفَصْلِ ج رُؤَسَاءُ الفُصُوْلِ ). \n
+    Ketua Kelas (P) ( رَئِيْسَةُ الفَصْلِ ج رَئِيْسَاتُ الفُصُوْلِ ). \n
+    Presiden ( رَئِيْسٌ الدَّوْلَةِ ج رُؤَسَاءُ الدُوَلِ ).\n
+     Raja ( مَلِكٌ ج مُلُوْكٌ ). Duta Besar ( سَفِيْرٌ ج سُفَرَاءٌ ). \n
+    Atase ( مُلْحَقٌ ج مُلْحَقُوْنَ ). \n
+    Menteri ( وَزِيْرٌ ج وُزَرَاءٌ ). \n
+    Gubernur ( أَمِيْرٌ ج أُمَرَاءٌ ). \n
+    Bupati ( مُحَافِظٌ ج مُحَافِظُوْنَ ). \n
+    Kepala Desa ( عُمْدَةُ القَرْيَةِ ).\n
+     Dokter (L) ( طَبِيْبٌ ج أَطِبَّاءٌ ). \n
+    Dokter (P) ( طَبِيْبَةٌ ج طَبِيْبَاتٌ ). \n
+    Ahli Bedah ( جَرَّاحٌ ج جَرَّاحُوْنَ ). \n
+    Perawat (L) ( مُمَرِّضٌ ج مُمَرِّضُوْنَ ). \n
+    Perawat (P) ( مُمَرِّضَةٌ ج مُمَرِّضَاتٌ ). \n
+    Apoteker (L) ( صَيْدَلِيٌّ ج صَيَادِلَةٌ). \n
+    Apoteker (P) ( صَيْدَلِيَّةٌ ج صَيْدَلِيَّاتٌ ). \n
+    Insinyur/Engginer (L) ( مُهَنْدِسٌ ج مُهَنْدِسُوْنُ ). \n
+    Insinyur/Engginer (P) ( مُهَنْدِسَةٌ ج مُهَنْدِسَاتٌ ). \n
+    Designer (L) ( مُصَمِّمٌ ج مُصَمِّمُوْنَ ). \n
+    Designer (P) ( مُصَمِّمَةٌ ج مُصَمِّمَاتٌ ). \n
+    Fotografer (L) ( مُصَوِّرٌ ج مُصَوِّرُوْنَ ). \n
+    Fotografer (P) ( مُصَوِّرَةٌ ج مُصَوِّرَاتٌ ). \n
+    Direktur (L) ( مُدِيْرٌ ج مُدَرَاءٌ ). \n
+    Direktur (P) ( مُدِيْرَةٌ ج مُدِيْرَاتٌ ). \n
+    Pegawai (L) ( مُوَظَّفٌ ج مُوَظَفُوْنَ ). \n
+    Pegawai (P) ( مُوَظَّفَةٌ ج مُوَظَّفَاتٌ ). \n
+    Karyawan (P) ( عَامِلٌ ج عُمَّالٌ ). \n
+    Karyawan (L) ( عَامِلَةٌ ج عَامِلَاتٌ ). \n
+    Ibu Rumah Tangga ( رَبَّةُ البَيْتِ ج رَبَّاتُ البُيُوْتِ ). \n
+    Penulis (L) ( كَاتِبٌ ج كُتَّابٌ ). \n
+    Penulis (P) ( كَاتِبَةٌ ج كَاتِبَاتٌ ). \n
+    Supir ( سَائِقٌ ج سُوَّاقٌ ). \n
+    Hakim ( حَاكِمٌ ج حُكَّامٌ ) ( قَاضٍ ج قُضَاةٌ ). \n
+    Pedagang ( تَاجِرٌ ج تُجَّارٌ ). \n
+    Nelayan ( صَيَّادٌ ج صَيَّادُوْنَ ). \n
+    Pelukis ( رَسَّامٌ ج رَسَّامُوْنَ ). \n
+    Polisi ( شُرْطِيٌّ ج شُرْطَةٌ ). \n
+    Pengacara ( مُحَامٍ ج مُحَامُوْنَ ). \n
+    Aktor ( مُمَثِّلٌ ج مُمَثِّلُوْنَ ). \n
+    Aktris ( مُمَثِّلَةٌ ج مُمَثِّلَاتٌ ). \n
+    Penyanyi (L) ( مُغَنٍّ ج مُغَنُّوْنَ ). \n
+    Penyanyi (P) ( مُغَنِّيَةٌ ج مُغَنِّيَاتٌ ). \n
+    Sastrawan ( أَدِيْبٌ ج أُدَبَاءٌ ). \n
+    Penyair ( شَاعِرٌ ج شُعَرَاءٌ ). \n
+    Petani ( فَلَّاحٌ ج فَلَّاحُوْنَ ). \n
+    Pengusaha ( رَجُلُ أَعْمَالٍ ). \n
+    Bendahara (L) ( مُحَاسِبٌ ج مُحَاسِبُوْن ). \n
+    Bendahara (P) ( مُحَاسِبَةٌ ج مُحَاسِبَاتٌ ). \n
+    Sekretaris (L) ( سِكْرِتِيْرٌ ).\n
+     Sekretaris (P) ( سِكْرِتِيْرَةٌ ). \n
+    Sekuriti ( بَوَّابٌ ج بَوَّابُوْنَ ). \n
+    Penjaga ( حَارِسٌ ج حُرَّاسٌ ). \n
+    Pelaut ( بَحَّارٌ ج بَحَّارُوْنَ ). \n
+    Pelayan ( خَادِمٌ ج خَادِمُوْنَ ). \n
+    Pramugari ( مُضِيْفَةٌ ج مُضِيْفَاتٌ ). \n
+    Wartawan ( صَحَافِيٌّ ج صَحَافِيُّوْنَ ). \n
+    Kuli Bangunan ( بَنَّاءٌ ج بَنَّاؤُوْنَ ). \n
+    Tukang Listrik ( كَهْرَبَائِيٌّ ج كَهْرَبَائِيُّوْنَ ).\n 
+    Tukang Sampah ( زَبَّالٌ ج زَبَّالُوْنَ ). \n
+    Tukang Kebun ( بُسْتَانِيٌّ ج بُسْتَانِيُّوْنَ ).\n 
+    Tukang Ledeng ( سَبَّاكٌ ج سَبَّاكُوْنَ ). \n
+    Tukang Roti ( خَبَّازٌ ج خَبَّازُوْنَ ). \n
+    Tukang Kedai ( بَقَّالٌ ج بَقَّالُوْنَ ). \n
+    Tukang Jagal ( جَزَّارٌ ج جَزَّارُوْنَ ). \n
+    Tukang Kayu ( نَجَّارٌ ج نَجَّارُوْنَ ). \n
+    Tulang Besi ( حَدَّادٌ ج حَدَّادُوْنَ ). \n
+    Tukang Jahit ( خَيَّاطٌ ج خَيَّاطُوْنَ ). \n
+    Tukang Cukur ( حَلَّاقٌ ج حَلَّاقُوْنَ ). \n
+    Tukang Sepatu ( حَذَّاءٌ ج حَذَّاؤُوْنَ ). \n
+    Pilot ( طَيَّارٌ ج طَيَّارُوْنَ ). \n
+    Koki (L) ( طَبَّاخٌ ج طَبَّاخُوْن ).\n
+     Koki (P) ( طَبَّاخَةٌ ج طَبَّاخَاتٌ ). \n
+    Tentara (L) ( جُنْدِيٌّ ج جُنُوْدٌ ). \n
+    Tentara (P) ( جُنْدِيَّةٌ ج جُنْدِيَّاتٌ ). \n
+    Sniper ( قَنَّاصٌ ج قَنَّاصُوْنَ ). \n
+    Calo ( سِمْسَارٌ ج سَمَاسِرَةٌ ). \n
+    Pencuri ( لِصٌّ ج لُصُوْصٌ ). \n
+    Bajak Laut ( قُرْصَانٌ ج قَرَاصِنَةٌ ). \n
+    Mata-mata ( جَاسُوْسٌ ج جَوَاسِيْسُ ). \n
+    Badut/Pelawak ( مُهَرِّجٌ ج مُهَرِّجُوْنَ ). \n
+    Tahanan ( سَجِيْنٌ ج سُجَنَاءٌ ). \n
+    Pengangguran ( بَطَّالٌ ج بَطَّالُوْنَ ). \n
+    Programmer ( َمُبَرْمِجٌ ج مُبَرْمِجُوْن ).\n
+    </string>
+
+    <string name="mufradatpakaian">
+    Pakaian :\n\n
+    Pakaian ( مَلْبَسٌ جـ مَلَابِسُ ) malbasun jim malaabisu. \n
+    Kemeja ( قَمِيْصٌ جـ قُمْصَانٌ ) qamiishun jim qumshaanun. \n
+    Jubah ( ثَوْبٌ جـ أَثْوَابٌ ) tsawbun jim atswaabun. \n
+    Kaos ( فَانِلَّةٌ ) faanillatun. \n
+    Celana panjang ( بَنْطَلُوْنٌ جـ بَنْطَلُوْنَاتٌ ) banthaluunun jim banthaluunaatun. \n
+    Daster ( فُسْتَانٌ جـ فَسَاتِيْنُ ) fustaanun jim fasaatiinu. \n
+    Sarung ( إِزَارٌ جـ آزِرَةٌ ) izaarun jim aaziratun. \n
+    Kaos kaki ( جَوْرَبٌ جـ جَوَارِبُ ) jawrabun jim jawaaribu. \n
+    Sarung tangan ( قُفَّازٌ جـ قُفَّازَاتٌ ) qufaazun jim qufaazaatun. \n
+    Topi ( قُبَّعَةٌ جـ قُبَّعَاتٌ ) qubba\'atun jim qubba\'aatun. \n
+    Jaket/Mantel ( مِعْطَفٌ جـ مَعَاطِفُ ) mi\'thafun jim ma\'aathifu. \n
+    Sendal ( نَعْلٌ جـ نِعَالٌ ) na\'lun jim ni\'aalun. \n
+    Sepatu ( حِذَاءٌ جـ أَحْذِيَةٌ ) hidzaa`un jim ahdziyatun. \n
+    Kain ( قُمَاشٌ جـ أَقْمِشَةٌ ). Sutra ( حَرِيْرٌ جـ حَرَائِرُ ). \n
+    Sorban ( عِمَامَةٌ جـ عَمَائِمُ ). Dasi ( رَبْطَةُ العُنُقِ  ). \n
+    Resleting ( زِمَامٌ مُنْزَلِقٌ ). \n
+    Selendang ( رِدَاءٌ جـ رِدَاءَاتٌ ). \n
+    Kopiah/Peci ( قَلَنْسُوَةٌ جـ قَلَانِسُ ). \n
+    Kapas ( قُطْنٌ جـ أَقْطَانٌ ). \n
+    Wool ( صُوْفٌ جـ أَصْوَافٌ ). \n\n
+
+     Kosakata Tambahan : \n
+    Memakai pakaian ( لَبِسَ - يَلْبَسُ - اِلْبَسْ ). \n
+    Mengenakan pakaian ( اِرْتَدَى - يَرْتَدِي - اِرْتَدِ ). \n
+    Melapas pakaian ( خَلَعَ - يَخْلَعُ - اِخْلَعْ ). \n
+    </string>
+
+    <string name="mufradatwaktu">
+
+    Waktu/jam :\n\n
+
+    Jam Satu ( السَّاعَةُ الوَاحِدَةُ ). \n
+    Jam Dua ( السَّاعَةُ الثَّانِيَةُ ). \n
+    Jam Tiga ( السَّاعَةُ الثَّالِثَةُ ). \n
+    Jam Empat ( السَّاعَةُ الرَّابِعَةُ ). \n
+    Jam Lima ( السَّاعَةُ الخَامِسَةُ ). \n
+    Jam Enam ( السَّاعَةُ السَّادِسَةُ ). \n
+    Jam Tujuh ( السَّاعَةُ السَّابِعَةُُ ). \n
+    Jam Delapan ( السَّاعَةُ الثَّامِنَةُ ). \n
+    Jam Sembilan ( السَّاعَةُ التَّاسِعَةُ ). \n
+    Jam Sepuluh ( السَّاعَةُ العَاشِرَةُ ). \n
+    Jam Sebelas ( السَّاعَةُ الحَادِيَةَ عَشْرَةَ ). \n
+    Jam Duabelas ( السَّاعَةُ الثَّانِيَةَ عَشْرَةَ ).   \n\n
+
+    Kosakata Tambahan ( ٌمُفْرَدَاتٌ إِضَافِيَّة ): \n\n
+    Detik ( ثَانِيَةٌ جـ ثَوَانٍ ).\n
+     Menit ( دَقِيْقَةٌ جـ دَقَائِقُ ). \n
+    Jam ( سَاعَةٌ جـ سَاعَاتٌ ). \n
+    Jarum jam ( عَقْرَبُ السَّاعَةِ جـ عَقَارِبُ السَّاعَةِ ). \n
+    Lewat ( َو ). \n
+    Kurang ( إِلاَّ ). \n
+    Seperempat ( الرُّبْعُ ). \n
+    Setengah ( النِّصْفُ ).\n
+    5 Menit ( خَمْسُ دَقَائِقَ ).\n
+    10 Menit ( عَشْرُ دَقَائِقَ ).\n
+    20 Menit ( عِشْرُوْنَ دَقِيْقَةً ).\n
+    Limabelas Menit/Seperempat Jam ( رُبْعُ سَاعَةٍ ).\n
+    Setengah Jam ( نِصْفُ سَاعَةٍ ).\n
+    Jam Dinding ( السَّاعَةُ الحَائِطِيَّةُ ).\n
+    Jam Tangan ( السَّاعَةُ اليَدَوِيَّةُ ). \n
+    Jam berapa sekarang? ( كَمِ السَّاعَةُ الآنَ ؟ ).\n
+     Pagi ( صَبَاحٌ ).\n
+     Siang ( نَهَارٌ ). \n
+    Sore ( مَسَاءٌ ). \n
+    Malam ( لَيْلَةٌ ). \n
+    Siang Malam ( لَيْلًا وَنَهَارًا ). \n
+    Sejam yang lalu ( قَبْلَ سَاعَةٍ ). \n
+    Semenit yang lalu ( قَبْلَ دَقِيْقَةٍ ).\n 
+    Beberapa menit yang lalu ( قَبْلَ دَقَائِقَ ). \n
+    Kira-kira sejam lagi ( بَعْدَ سَاعَةٍ تَقْرِيْبًا ). \n
+    Sesegera/secepat mungkin ( فِي أَسْرَعِ وَقْتٍ مُمْكِنٍ ). \n
+    Satu jam ( سَاعَةٌ وَاحِدَةٌ ). \n
+    Dua jam ( سَاعَتَانِ ). \n
+    Tiga jam ( ثَلَاثُ سَاعَاتٍ ). \n
+    Empat jam ( أَرْبَعُ سَاعَاتٍ ). \n
+    Lima jam ( خَمْسُ سَاعَاتٍ ). \n
+    Enam jam ( سِتُّ سَاعَاتٍ ). \n
+    Tujuh jam ( سَبْعُ سَاعَاتٍ ). \n
+    Delapan jam ( ثَمَانِيُ سَاعَاتٍ ). \n
+    Sembilan jam ( تِسْعُ سَاعَاتٍ ). \n
+    Sepuluh jam ( عَشْرُ سَاعَاتٍ ).\n
+
+    Jam 5 lebih 5 menit ( السَّاعَةُ الخَامِسَةُ وَخَمْسُ دَقَائِقَ ). \n
+    Jam 8 lebih 10 menit ( السَّاعَةُ الثَّامِنَةُ وَعَشْرُ دَقَائِقَ ). \n
+    Jam 9 lebih 15 menit ( السَّاعَةُ التَّاسِعَةُ وَالرُّبْعُ ). \n
+    Jam 10 lebih 20 menit ( السَّاعَةُ العَاشِرَةُ وَالثُّلْثُ ). \n
+    Jam 6 lebih 30 menit ( السَّاعَةُ السَّادِسَةُ وَالنِّصْفُ ). \n
+    Jam 1 kurang 5 menit ( السَّاعَةُ الوَاحِدَةُ إِلَّا خَمْسُ دَقَائِقَ ). \n
+    Jam 7 kurang 10 menit ( السَّاعَةُ السَّابِعَةُ إِلَّا عَشْرُ دَقَائِقَ ). \n
+    Jam 2 kurang 15 menit ( السَّاعَةُ الثَّانِيَةُ إِلَّا الرُّبْعُ ). \n
+    Jam 3 kurang 20 menit ( السَّاعَةُ الثَّالِثَةُ إِلَّا الثُّلْثُ ). \n
+    jam 4 kurang 30 menit ( السَّاعَةُ الرَّابِعَةُ إِلَّا النِّصْفُ ).\n
+
+
+     
+    </string>
+
+    <string name="mufradatanggotatubuh">
+    Anggota Tubuh :\n\n
+
+    Kepala ( ٌرَأْسٌ جـ رُؤُوْس ). \n
+    Rambut ( ٌشَعْرَةٌ جـ شَعْر ). \n
+    Uban ( شَيْبَةٌ ). \n
+    Jidat ( ٌجَبْهَةٌ جـ جِبَاه ).\n
+     Mata ( ٌعَيْنٌ جـ أَعْيُن ). \n
+    Alis ( ُحَاجِبٌ جـ حَوَاجِب ). \n
+    Hidung ( ٌأَنْفٌ جـ أُنُوْف ). \n
+    Telinga ( ٌأُذُنٌ جـ آذَان ). \n
+    Pipi ( ٌخَدٌّ جـ خُدُوْد ). \n
+    Mulut ( ٌفَمٌ جـ أَفْوَاه ). \n
+    Bibir ( ٌشَفَةٌ جـ شِفَاه ). \n
+    Gigi ( ٌسِنٌّ جـ أَسْنَان ). \n
+    Lidah ( ٌلِسَانٌ جـ أَلْسِنَة ). \n
+    Jambang ( ُعَارِضٌ جـ عَوَارِض ). \n
+    Kumis ( ُشِارِبٌ جـ شَوَارِب ). \n
+    Dagu ( ٌذَقَنٌ جـ أَذْقَان ). \n
+    Jenggot ( لِحْيَةٌ جـ لِحًى ). \n
+    Leher ( ٌعُنُقٌ جـ أَعْنَاق ). \n
+    Pundak ( ٌكَتِفٌ جـ أَكْتَاف ). \n
+    Punggung ( ٌظَهْرٌ جـ ظُهُوْر ). \n
+    Lengan bawah ( ٌذِرَاعٌ جـ أَذْرُع ). \n
+    Lengan atas ( ٌعَضُدٌ جـ أَعْضَاد ). \n
+    Ketiak ( ٌإِبْطٌ جـ آبَاط ). \n
+    Tangan ( ٍيَدٌ جـ أَيْد ). \n
+    Jari ( ُأُصْبُعٌ جـ أَصَابِع ). \n
+    Kuku ( ٌظُفْرٌ جـ أَظْفَار ). \n
+    Telapak tangan ( كَفٌ جـ أَكُفٌّ ). \n
+    Dada ( صَدْرٌ جـ صُدُوْرٌ ). \n
+    Perut ( ٌبَطْنٌ جـ بُطُوْن ). \n
+    Pusar ( ٌسُرَّةٌ جـ سُرَر ). \n
+    Sayap ( ُخَاصِرَةٌ جـ خَوَاصِر ) .\n
+    Pinggang ( ٌحَقْوٌ جـ أَحْقَاء ). \n
+    Panggul ( وَرِكٌ جـ أَوْرَاكٌ ). \n
+    Kemaluan ( ٌفَرْجٌ جـ فُرُوْج ). \n
+    Bokong ( أَلْيَةٌ جـ أَلَايَا ). \n
+    Paha ( ٌفَخِذٌ جـ أَفْخَاذ ). \n
+    Lutut ( ٌرُكْبَةٌ جـ رُكَب ). \n
+    Betis ( ٌسَاقٌ جـ سُوْق ). \n
+    Mata kaki ( ٌكَعْبٌ جـ كُعُوْب ). \n
+    Tumit ( ٌعَقِبٌ جـ أَعْقَاب ). \n
+    Telapak kaki ( ٌقَدَمٌ جـ أَقْدَام ). \n
+    Kulit ( ٌجِلْدٌ جـ جُلُوْد ). \n
+    </string>
+
+    <string name="mufradatbulan">
+    Nama Bulan Hijriyah :\n\n
+
+    Muharram	(مُحَرَّمٌ)
+    \n
+    Safar	(صَفَرٌ)
+    \n
+    Rabi\'il awal	(رَبِيْعُ الْاَوَّلِ)
+    \n
+    Rabi\'il sani	(رَبِيْعُ الثَّانِى)
+    \n
+    Jumadil awal	(جُمَادِ الْاَوَّلِ)
+    \n
+    Jumadil sani	(جُمَادِالثَّانِى)
+    \n
+    Rajab	(رَجَبُ)
+    \n
+    Sya\'ban	(شَعْبَانُ)
+    \n
+    Ramadhan	(رَمْضَانُ)
+    \n
+    Syawal	(شَوَالٌ)
+    \n
+    Zul qa\'dah	(ذُوالْقَعْدَةِ)
+    \n
+    Zul hijjah	(ذُوْالْحِجَّةِ)
+    \n
+    </string>
+
+
+
+
+    <string name="pengertian">
+Nahwu (النَّحْوُ) adalah ilmu yang mempelajari kaidah-kaidah untuk mengetahui hukum-hukum dari akhir huruf suatu kata.\n\n
+
+Contoh :\n\n
+
+جَاءَ رَجُل
+        \n Telah datang seorang laki-laki.
+        \n\n
+Kata رَجُلٌ berharokat akhir dhommatain karena kedudukannya sebagai subjek (pelaku).\n\n
+
+رَأَيْتُ رَجُلًا
+ \n Saya Melihat seorang laki-laki.
+        \n\n
+Kata رَجُلًا berharokat akhir fathatain karena kedudukannya sebagai objek.\n\n
+
+ مَرَرْتُ بِرَجُل
+ٍ \n Saya bertemu dengan seorang laki-laki.
+        \n\n
+Kata رَجُلٍ berharokat akhir kasrotain karena didahului oleh huruf بِ .\n\n
+
+Shorof adalah ilmu mengenai kaidah-kaidah untuk mengetahui pembentukan dan perubahan suatu kata karena penambahan atau pengurangan.\n
+
+Contoh :\n\n
+
+عَلِمَ – يَعْلَمُ – عِلْمًا – عَالِمٌ – مَعْلُوْمٌ – اعْلَمْ – لَا تَعْلَمْ – مَعْلَمٌ – مِعْلَامٌ
+        \n\n
+    </string>
+
+    <string name="jeniskata">
+Bila sebelumnya (pada pelajaran yang pertama), kita telah mengetahui bahwasanya ilmu shorof adalah ilmu yang mempelajari perubahan kata dari suatu bentuk ke bentuk yang lainnya, maka ada baiknya sebelum kita masuk lebih dalam ke ilmu shorof, terlebih dahulu kita memahami pembagian kata atau jenis-jenis kata dalam bahasa arab.\n\n
+
+Dalam bahasa Arab, seluruh kata yang ada dalam bahasa Arab terbagi menjadi 3 jenis atau 3 kelompok besar. Dalam bahasa kita (bahasa Indonesia) kita sering mendengar istilah kata kerja, kata benda, kata bantu, kata tanya, kata hubung dan penamaan kata yang lainnya. Di dalam bahasa arab, seluruh kata akan terbagi menjadi 3 jenis:\n\n
+
+• Al fi\’il\n
+• Al ism\n
+• Al harf\n\n
+
+Sekarang kita akan membahas satu persatu 3 jenis kata ini\n\n
+
+1. Fi\’il (kata kerja)\n
+
+Secara sederhana kita bisa mengatakan bahwa fi\’il adalah kata kerja, meskipun pada pelajaran yang lebih lanjut nantinya kita akan mengetahui bahwa tidak semua fi\’il adalah kata kerja. Tetapi seluruh kata kerja sudah pasti fi\’il.\n\n
+
+Contohnya adalah kata صَلُحَ (sholuha),\n maknanya adalah telah baik. \nDari sisi makna kita bisa mengetahui bahwa \“telah baik\” ini bukanlah kata kerja tetapi lebih kepada kata sifat, contohnya dalam sebuah hadits ketika Rasulullah menjelaskan bahwa di dalam tubuh ini ada segumpal darah/segumpal daging yang beliau katakan,\n\n
+
+إِذَا صَلُحَتْ صَلُحَ الجَسَدُ كُلُّهُ
+
+        \n\n
+idza sholuhat sholuhal jasadu kulluh (apabila ia baik maka baiklah seluruh jasad/tubuh).\n\n
+
+Kalau kita perhatikan kata sholuha, jelas tidak mengandung makna kata kerja karna memang kalau kita lihat literatur ilmu nahwu, definisi fi\’il adalah\n\n
+
+كَلِمَةٌ دَلَّتْ عَلَى مَعنًى في نَفسِهَا وَ اقتَرَنَتْ بِزَمَنٍ
+
+        \n\n
+kalimatun dallat ‘ala ma’na fii nafsiha waqtaronat bi zaman\n\n
+(fi\’il adalah kata yang mengandung sebuah makna yang berkaitan dengan waktu kejadian).\n\n
+
+Jadi fi\’il adalah suatu kata yang mengandung sebuah makna yang berkaitan dengan waktu kejadian, jadi ada keterangan waktunya. Oleh karna itu tidak semua fi’il adalah kata kerja tetapi semua kata kerja adalah fi’il karena kata kerja pasti mengandung keterangan waktu.\n\n
+
+Baik, kita tidak akan berlama-lama membahas tentang ini karena ada tempatnya untuk membahasnya.\n\n
+
+Selanjutnya,  fi\’il (kata kerja) dalam bahasa arab terbagi lagi menjadi 3;  fi\’il madhi, fi\’il mudhori, dan  fi\’il amr.\n\n
+
+1. Fi\’il madhi\n
+Adalah kata kerja untuk masa lampau, artinya untuk perbuatan yang telah dilakukan masa lalu. Atau kalau kita pernah belajar bahasa inggris, fi\’il madhi adalah bentuk past tense, contohnya عَلِمَ \‘alima artinya telah mengetahui.\n\n
+
+2. Fi\’il mudhori\’\n
+Adalah kata kerja untuk perbuatan yang sedang terjadi atau akan terjadi, contohnya يَعْلَمُ ya\’lamu artinya sedang mengetahui atau akan mengetahui.\n\n
+
+3. Fi\’il \‘amr\n
+Adalah kata kerja perintah, contohnya إِعْلَمْ (i’lam) artinya ketahuilah. Seperti kata \“Lihatlah\”, \“tulislah\”, \“pukullah\”, \“pelajarilah\”, ini semua disebut dengan fi\’il \‘amr (kata kerja perintah)\n\n
+
+Contoh fi\’il madhi, fi\’il mudhori\’ dan fi\’il ‘amr dalam AlQur\’an untuk kata عَلِمَ bisa kita lihat dalam beberapa ayat berikut:\n\n
+
+1. Fi\’il madhi \‘alima ada di surat AlBaqoroh 187\n\n
+
+عَلِمَ أَللَّهُ أَنَّكُمْ كُنْتُمْ تَحْتَاَنُوْنَ أَنْفُسَكُمْ فَتَابَ عَلَيْكُمْ وَ عَفَاَعَنْكُم
+
+        \n\n
+\”Allah mengetahui bahwasanya kamu tidak dapat menahan nafsumu, karena itu Allah mengampuni kamu dan memberi ma\’af kepadamu\”\n\n
+
+\‘alima ini disebut dengan fi\’il madhi karna fi\’il madhi maknanya adalah telah, telah mengetahui.\n\n
+
+2. Fi\’il mudhori\’ ya\’lamu يَعْلَمُ bisa kita jumpai dalam QS AlBaqoroh 216\n\n
+
+وَاللَّهُ يَعْلَمُ وَ أَنْتُم لاَ تَعْلَمُوْنَْ
+
+        \n\n
+\“Allah mengetahui, sedang kamu tidak mengetahui\”\n\n
+
+Kata ya\’lamu adalah fi\’il mudhori\’, Allahu ya\’lamu (Allah mengetahui), artinya Allah itu sekarang tahu dan akan tahu seterusnya, karna makna fi\’il mudhori\’ adalah berlangsung dan akan terus sampai masa mendatang.\n\n
+
+3. Fi\’il \‘amr إِعْلَمْ ْbisa kita temui dalam surat yang sama yaitu AlBaqoroh 260\n\n
+
+وَاعْلَمْ أَنَّ أللَهَ عَزِيْزٌ حَكِيْمٌ
+
+        \n\n
+\“Dan ketahuilah bahwasanya Allah Maha Perkasa dan Maha Bijaksana\”\n\n
+
+kata i\’lam adalah fi\’il amr yang maknanya sangat jelas yaitu ketahuilah (kata kerja perintah)\n\n
+
+Alhamdulilah kita telah belajar pembagian fi\’il; fi\’il madhi, fi\’il mudhori\’ dan fi\’il \‘amr.\n\n
+
+Kemudian, jenis kata yang ke-2 adalah Isim\n\n
+
+2. Isim\n\n
+
+Isim Secara sederhana kita bisa mengatakan isim adalah kata benda. Berbeda dengan fi\’il yang hanya terbagi menjadi 3 jenis (madhi, mudhori’dan’amr), isim memiliki pembagian lagi yang lebih banyak.\n\n
+
+• Berdasarkan jumlah, isim bisa dibedakan menjadi :\n\n
+
+1. Isim mufrod (kata tunggal)\n\n
+2. Isim tatsniyah/isim mutsanna (kata ganda)\n\n
+3. Isim jama’ (kata banyak atau lebih dari 2)\n\n
+
+Ini perlu kita catat karna berbeda dengan bahasa Indonesia yang hanya membedakan kata tunggal dengan kata majemuk, maka bahasa adab ada kata tunggal, kata ganda dan kata jama\’. Disebut dengan jama\’ dalam bahasa arab adalah kata yang lebih dari 2, kalau 2 disebut xengan lata ganda/isim tatsniyah/isim mutsanna. Ini pembagian isim berdasarkan jumlah.
+
+• Berdasarkan jenis, isim bisa dibagi menjadi isim mudazakkar dan isim muannats.\n\n
+1. Isim mudzakkar itu artinya gentle/laki2\n
+2. Isim muannats itu artinya feminin/perempuan\n\n
+
+Ini adalah pembagian isim yang paling populer (berdasarkan jenis dan berdasarkan jumlah). Dan mengetahui ke 2 jenis pembagian ini wajib diketahui oleh seluruh pemula yang ingin mempelajari bahasa arab, insya Allah kita akan membahas lebih lanjut tentang pembagian isim menurut jumlah dan pembagian isim menurut jenis pada kesempatan yang akan datang.\n\n
+
+Selain 2 jenis pembagian isim ini, ada satu jenis isim lagi yang harus kita pelajari sebagai pemula yakni isim dhomir atau kata ganti.\n\n
+
+Dalam bahasa kita, kita hanya mengenal kata ganti orang pertama seperti, saya dan kami, kemudian kata ganti orang ke 2 seperti, kamu dan kalian, kemudian kata ganti orang ke 3 seperti, dia dan mereka.\n\n
+
+Dan dalam bahasa kita, kita hanya membagi kata ganti orang  pertama tunggal, kata ganti orang pertama jama\’, kata ganti orang kedua tunggal, kata ganti orang kedua jama\’, kata ganti orang pertama tunggal dan kata ganti orang ketiga jama\’, ini dalam bahasa Indonesia.\n\n
+فَ
+        \n
+ artinya maka
+        \n\n
+Di dalam bahasa arab selain ada kata ganti orang pertama tunggal dan jama\’, juga ada kata ganti ganda.\n\n
+        Jadi, kata ganti dalam bahasa Arab terdiri dari : kata ganti tunggal, kata ganti ganda dan kata ganti jama\ فَ artinya maka فَ artinya maka’. \n\n
+        Selain itu antara laki-laki dan wanita itu dipisahkan, sehingga kalau kita jabarkan kata ganti dalam bahasa arab ada 14, berbeda dengan bahasa indonesia yang hanya ada 6 yaitu : saya, kami, kamu, kalian, dia dan mereka.\n\n
+
+Dalam bahasa arab, kata gantinya adalah saya, kami, dia laki-laki seorang, mereka laki-laki dua orang, mereka laki-laki tiga orang atau lebih, dia wanita tunggal, mereka wanita berdua, mereka wanita tiga orang atau lebih, dst. yang jumlahnya menjadi 14. InsyaAllah kita akan membahas lebih lanjut tentang isim dhomir ini pada pelajaran yang selanjutnya.\n\n
+
+Kemudian jenis kata yang ke 3 dalam bahasa arab disebut dengan huruf\n\n
+
+3. Huruf (Al-Harf)\n\n
+
+Huruf yang dimaksud di sini bukan seluruh huruf hijaiyyah (dari alif, ba, ta dst) tetapi huruf yang dimaksud dalam ilmu nahwu dan shorof adalah huruf hijaiyyah yang memiliki arti, baik tersusun dari 1 huruf saja atau 2 huruf atau 3 huruf.\n\n
+
+Jadi al-harf adalah huruf-huruf  yang memiliki arti khusus, baik tersususn dari 1 huruf, 2 huruf maupun 3 huruf.\n\n
+
+Contoh huruf hijaiyyah yang 1 huruf namun memiliki arti adalah\n\n
+
+أ
+        \n
+        artinya apakah  َ\n
+
+ ب
+        \n
+  ِ artinya dengan\n\n
+
+
+
+Selanjutnya akan kita lihat contoh 2 huruf hijaiyyah yang memiliki arti:\n\n
+
+min مِنْ artinya dari\n\n
+\‘an عَنْ artinya dari\n\n
+fii فِى di\n\n
+lan لَنْ artinya tidak akan\n\n
+lam لَمْ artinya tidak/belum\n\n
+Contoh 3 huruf hijaiyyah yang memiliki arti\n\n
+
+ilaa إِلَى artinya ke\n\n
+\‘alaa عَلَى artinya di atas\n\n
+Inilah pembagian kata dalam bahasa arab, terbagi menjadi 3 (fi\’il, isim dan huruf).\n\n
+
+Fi\’il sendiri terbagi menjadi 3 yakni fi\’il madhi, fi\’il mudhori\’ dan fi\’il \‘amr. Yang madhi adalah kata kerja untuk perbuatan yang telah lalu (past tense), fi\’il mudhori\’ adalah kata kerja untuk perbuatan yang sedang berlangsung atau akan berlangsung di masa yang akan datang (present continuous tense dan future tense) kemudian fi\’il \‘amr adalah kata kerja perintah.\n\n
+
+Jenis yang ke 2 adalah isim, berbeda dengan fi\’il yang hanya terbagi menjadi 3, isim banyak sekali jenisnya, namun untuk pemula yang harus diketahui, yang wajib dipahami pembagian isim berdasarkan jumlah, ada isim mufrod (kata tunggal), ada isim tatsniyah (kata ganda) dan ada isim jama\’ (majemuk). Kemudian isim berdasarkan jenis ada isim mudzakkar (laki-laki), ada isim muannats (perempuan) dan 1 jenis isim lagi yang wajib dipelajari adalah isim dhomir (kata ganti) dalam bahasa arab yang jumlahnya ada 14 kata ganti.\n\n
+
+Dan terakhir huruf,
+        huruf yang dimaksud dalam ilmu nahwu adalah
+        huruf hijaiyyah (baik 1, 2 atau 3) yang memiliki makna khusus\n\n
+        contohnya:\n\n
+
+       أ
+     \n
+        َ artinya apakah\n\n
+
+        بِ
+   \n
+        artinya dengan\n\n
+
+        لِ
+      \n
+        artinya untuk\n\n
+        عَنْ
+
+      \n
+        artinya dari\n\n
+        إِلَ
+      \n
+
+        artinya ke\n\n
+
+        عَلَى
+       \n
+        artinya di atas\n\n
+    </string>
+
+    <string name="isim">
+        Isim adalah kata benda atau suatu kata yang tidak memiliki waktu.\n\n
+Contoh : \n\n
+
+        مُحَمَّدٌ
+        \n
+        (muhammad)\n\n
+
+        مَدْرَسَةٌ
+        \nsekolah \n\n
+
+Bagaimana cara mengidentifikasi isim (kata benda) dalam bahasa arab…?\n\n
+
+Berikut adalah ciri-cirinya :\n\n
+1.      Bisa menerima tanwin seperti contoh diatas.\n
+2.      Bisa menerima (ا ل  )\n\n
+
+
+Contoh:     \n\nلنُّوْرُ
+
+        \n
+
+        (Cahaya)\n\n
+
+        السَّمَآءِ
+        \n
+        (Langit)\n\n
+
+3.      Bisa menerima huruf jer\n\n
+Huruf jer yang biasa kita jumpai diantaranya adalah:\n
+
+        الي\n
+        (ke)\n\n
+
+        عَنْ \n
+        (dari)\n\n
+
+     عَلي
+        \n
+
+        (diatas)\n\n
+
+        فِ
+        \n
+        (didalam)\n\n
+
+        ب
+        \n
+        (dengan)\n\n
+
+
+ل
+        \n
+        (bagi)\n\n
+
+     ك
+
+        \n
+        (seperti)\n
+        \n\n
+Contoh : مِنَ السَّمَآءِ(dari langit)\n
+
+        السَّمَآءِ
+        \n
+        adalah merupakan isim dan karenanya ia bisa dimasuki huruf jer yaitu مِنْ
+        \n\n
+4.      Bisa bersambung dengan isim lain membentuk kata majemuk.\n\n
+Contoh : نَصْرُللهِ (pertolongan Allah). Merupakan dua buah buah isim yang digabung menjadi satu dan menghasilkan satu makna.\n\n
+Catatan :\n
+Tanwin dan Alif Lam merupakan tanda isim, tetapi keduanya tidak dapat berada pada satu isim secara bersamaan.\n
+Contoh : نُوْرٌ  ketika dimasuki alif lam akan menjadi \n
+        اَلنّوْرُ
+        \n
+        (tanwin-nya hilang).\n\n\n
+
+    </string>
+
+    <string name="berdasarkanjenis">
+        Berdasarkan jenisnya kata benda dapat dibedakan menjadi kata benda jenis laki-laki (mudzakkar) dan kata benda jenis perempuan (mu’annas). Pembagian kata benda berdasarka jenis dalam bahasa arab adalah sangat penting karena hal ini akan menyangkut pada pemakaian dhomir (kata ganti) dan juga pemakaian fi’il (kata kerja). Seperti contoh :
+هُوَ طَبِيْبٌ  Dia adalah dokter laki-laki) هِيَ طَبِيْبَةٌ Dia adalah dokter (perempuan)
+        )\n\n
+
+جاَءَ مُحَمَّدٌ  Muhammad telah datang
+        \n
+        جاَءَتْ هِنْدٌ Hindun telah datang
+        \n\n
+
+Pada contoh diatas : طَبِيْبٌ adalah isim mudzakar (kata benda jenis laki-laki) sehingga kata ganti yang digunakan juga harus berjenis laki-laki yaitu هُوَ (He). Pada contoh ke-2 طَبِيْبَةٌ adalah isim muannast (kata benda jenis perempuan) sehingga kata ganti yang digunakan juga harus berjenis perempuan yaitu هِيَ (She).\n
+
+مُحَمَّدٌ adalah isim mudazakar sehingga fi’il (kata kerja) yang digunakan juga harus mudzakar. \n
+        Begitu juga dengan هِنْدٌ  adalah isim muannast sehingga menggunakan fi\’il muannast.
+        \n\n
+
+1. ISIM MUDZAKAR\n
+Adalah kata benda yang menunjukkan arti laki-laki baik manusia, hewan ataupun benda mati yang dikategorikan sebagai mudzakar.
+Contoh : اَلرَّجُلُ Seorang laki-laki, مُحَمّدٌ  Muhammad,
+اَلْمِصْباحُ  Lentera (adalah contoh benda mati yang dikategorikan sebagai mudzakar.)
+        \n\n
+
+2. ISIM MUANNATS\n
+Adalah kata benda yang menunjukkan arti perempuan baik manusia, hewan ataupun benda mati yang dikategorikan sebagai muannast.
+Contoh : عَائِشَةُ , Aisyah,الدَّجَاجَةُ  Ayam betina
+الشَّمْسُ  Matahari (adalah contoh benda mati yang dikategorikan sebagai muannast)
+Ada beberapa cara membedakan isim mudzakar dengan isim muannast yaitu :\n\n
+
+1.      Dengan membedakan jenis kelaminnya.\n\n
+
+Contoh : Mudzakar اَلرَّجُلُ  Seorang laki-laki, الدِّيْكُ Ayam jantan
+Muannast  الْمَرْأَةُ Seorang perempuan, الدَّجَاجَة  Ayam betina\n\n
+
+2.      Dengan pengelompokan secara bahasa
+Isim muannast biasa memiliki ciri-ciri sebagai berikut :\n\n
+a.       Diakhiri denga ta marbuthoh (ة)\n
+Contoh : خَدِيْجَةُ  Khodijah, مَدْرَسَة ُ  Sekolah, الشَّجَرَة   Pohon\n\n
+b.      Anggota tubuh yang berpasang-pasang\n\n
+Contoh :\n\n
+
+        عَيْنٌ
+        Mata
+        \n
+يَدٌ Tangan
+        \n
+        \n\n
+c.       Jamak Taksir : jamak taksir dikategorikan sebagai muannast ( jamak taksir akan dibahas tersendiri pada bab Isim Jamak)\n\n
+Contoh :\n\n
+        Rumah : \n
+         Rumah-rumah     بُيُوْتٌ
+        \n
+        bentuk tunggalnya  بَيْت
+        \n\n
+        Rosul : \n
+
+         Rosul-rosul رُسُلٌ
+\n
+         bentuk tunggalnya رَسُوْلٌ
+        \n\n
+
+
+Walaupun رُسُلٌ adalah isim yang jelas mudzakar, tetapi karena ia berbentuk jamak taksir maka dapat dimasukkan dalam kategori muannast.\n\n
+Selain yang disebutkan diatas adalah termasuk mudzakar.\n\n
+
+    </string>
+
+    <string name="berdasarkanbilangan">
+        Sebelum kita membahas pembagian isim berdasarkan bilangannya kita perlu mengenal terlebih dahulu beberapa istilah yang akan digunakan yaitu :\n\n
+Tunggal مُفْرَد
+        \n\n
+تَثْنِيَّه  Ganda
+        \n\n
+جَمَع  Jamak
+        \n\n
+
+
+1. ISIM MUFROD\n
+Adalah isim yang menunjukkan arti tunggal baik pada mudzakar maupun muannast.\n
+Contoh : أُسْتَاذٌ (Pak guru), أُسْتَاذَةٌ  (Bu guru),
+مُسْلِمٌ  (Seorang islam laki-laki), مُسْلِمَةٌ  (Seorang islam perempuan)
+        \n\n
+
+
+2. ISIM TASTNIYAH\n
+Adalah isim yang menunjukkan arti dua baik pada mudzakar maupun muannast.\n
+Contoh : أُسْتَاذَانِ, اُسْتاَذَيْنِ (dua orang guru laki-laki)
+أُسْتَاذَتاَنِ, أُسْتَاذَتَيْن ِ  (dua orang guru perempuan)
+        \n\n
+
+3. ISIM JAMAK\n
+Adalah isim yang menunjukkan arti jamak baik pada mudzakar maupun muannast.\n
+Isim jamak berdasarkan keteraturan bentuknya terbagi menjadi 2 yaitu :\n\n
+
+a. Isim Jamak Taksir\n
+Adalah isim jamak yang berubah dari bentuk mufrodnya dengan perubahan yang tidak beraturan sehingga perlu dihafal.\n
+Contoh : : بُيُوْتٌ  Rumah-rumah, bentuk tunggalnya بَيْتٌ
+رُسُلٌ  Rosul-rosul, bentuk tunggalnya  رَسُوْلٌ
+        \n\n
+
+b. Isim Jamak salim\n
+Adalah isim jamak yang berubah dari bentuk mufrodnya dengan perubahan yang teratur.\n
+Sehingga ada 2 macam isim jamak salim :\n\n
+
+Isim Jamak Mudzakar Salim\n
+Isim jamak salim yang menunjukkan arti laki-laki.\n
+Ciri-cirinya adalah adanya tambahan  ن+ و  dan ن + ي  pada bentuk mufrodnya\n
+Contoh : مُسْلِمُوْنَ , مُسْلِمِيْنَ  (Orang-orang islam laki-laki)\n\n
+
+Isim Jamak Muannast Salim\n
+Isim jamak salim yang menunjukkan arti perempuan.\n
+Ciri-cirinya adalah adanya tambahan  ت + ا  pada bentuk mufrodnya.\n
+Contoh : مُسْلِماَت  (Orang-orang islam prempuan)\n
+مُؤْمِناَت  (Oarang-orang mukmin perempuan)
+        \n\n
+
+
+    </string>
+
+    <string name="berdasarkankejelasan">
+Berdasarkan kejelasannya, isim terbagi menjadi dua macam yaitu :\n\n
+
+1. ISIM NAKIROH\n
+Adalah isim yang menunjukkan makna umum atau belum jelas kekhususannya. Dengan kata lain bahwa isim tersebut belum pasti/tertentu atau dapat menimbulkan pertanyaan \“…yang mana?\”\n\n
+Contoh :  رَجُلٌ  (Orang laki-laki),
+        \n\n
+        وَلَدٌ  (Seorang anak laki-laki)
+        \n\n
+        ,  اُسْتاَذٌ  (Pak Guru)
+        \n\n
+        ,  كِتاَبٌ (Buku)
+        \n\n
+
+Ciri dari isim nakiroh adalah keberadaan tanwin dan ketiadaan alif lam sebagaimana contoh diatas.\n
+Adakah isim nakiroh yang tidak bertanwin dan tidak ber-alif lam? Jawabnya ada. \n\n
+        Yaitu Isim Mustanna dan Jamak Mudzakar Salim. (Bisa dilihat pada bab pembagian isim berdasarkan bilangannya)\n\n
+
+Contoh : رَجُلاَنِ (dua orang laki-laki),
+        \n\n
+
+        رَجُلُوْنَ (orang-orang laki-laki)
+\n\n
+
+2. ISIM MA\’RIFAT\n
+Adalah isim yang menunjukkan makna khusus atau sudah jelas kekhususannya. Dengan kata lain isim tersebut telah diketahui secara pasti/tertentu atau tidak lagi menimbulkan pertanyaan \“… yang mana?\”.\n\n
+
+Contoh : \n\n
+
+       , مُحَمَّدٌ (Nama orang)
+        \n\n
+        , اَلْوَلَدُ (Anak laki-laki itu )
+        \n\n
+         الرَّجُلُ (Orang laki-laki itu)
+        \n\n
+Untuk lebih jelasnya dalam memahami perbedaan antara isim nakiroh dan isim ma’rifat, lihat table ini.\n\n
+
+Sedangkan isim-isim yang termasuk isim ma\’rifat adalah :\n\n
+1.Isim yang diawali dengan alif lam.\n\n
+2.Isim Dhomir (Kata Ganti)\n\n
+3.Isim Maushul (Kata Sambung)\n\n
+4.Isim Isyaroh (Kata Tunjuk)\n\n
+5.Isim yang diawali dengan huruf munada (huruf panggilan).\n\n
+6.Isim ‘Alam (Nama orang atau benda)\n\n
+7.Isim nakiroh yang disandarkan pada isim ma\’rifat\n\n
+
+1. Isim yang diawali dengan alif lam.\n
+            Isim nakiroh apabila ditambah alif lam akan berubah menjadi isim ma\’rifat.\n
+Contoh :  الرَّجُلُ  (Orang laki-laki itu),  اَلْوَلَدُ  (Anak laki-laki itu).\n\n
+
+2. Isim Dhomir (Kata Ganti)\n
+            Dhamir atau \"kata ganti\" ialah Isim yang berfungsi untuk menggantikan atau mewakili penyebutan sesuatu/seseorang maupun sekelompok benda/orang.\n
+Macam-macam isim dhomir yang lain dapat dilihat pada table berikut:\n\n
+Contoh:\n\n
+يَرْحَمُ اْلأَوْلاَدَ أَحْمَدُ  =    Ahmad menyayangi anak-anak
+        \n\n
+هُوَ يَرْحَمُهُمْ  =  Dia menyayangi mereka
+        \n\n
+Pada contoh di atas, kata  أَحْمَدُ diganti dengan  هُوَ (dia), sedangkan  الأَوْلاَد (anak-anak) diganti dengan  هُمْ (mereka).\n\n
+
+Menurut fungsinya, isim dhomir digolongkan menjadi 2 yaitu :\n\n
+1) DHAMIR RAFA\'/MUTTASHIL ( yang berfungsi sebagai Subjek)\n\n
+2) DHAMIR NASHAB/MUNFASHIL (yang berfungsi sebagai Objek)\n\n
+Dhamir Rafa\' dapat berdiri sendiri sebagai satu kata sehingga biasa disebut dhomir muttashil, sedangkan Dhamir Nashab tidak dapat berdiri sendiri atau harus terikat dengan kata lain dalam kalimat sehingga disebut dhomir munfashil.\n\n
+Dalam kalimat: هُوَ يَرْحَمُهُمْ (Dia menyayangi mereka):\n\n
+Kata هُوَ (dia) adalah Dhamir Rafa\', sedangkan\n\n
+Kata هُمْ (mereka) adalah Dhamir Nashab.\n\n
+
+3. Isim Maushul (Kata Sambung)\n
+Adalah isim yang berfungsi untuk menerangkan, sebagai perantara kata yang disebutkan sesudahnya. Dalam bahasa Indonsia biasa diartikan dengan \“yang\”\n\n
+Contoh : الَّذِي  (yang,untuk mudzakar),  الَّتِي  (yang, untuk muannast)\n\n
+
+
+5.    Munada\n
+Adalah isim yang menjadi ma’rifat Karena kemasukan huruf panggilan (nida\’)\n\n
+Contoh :\n\n
+          (wahai laki-laki)   ياَ رَجُلُ
+        \n\n
+        , ياَ اُسْتاَذُ  (wahai guru)
+        \n\n
+
+6. Isim \‘Alam (Nama orang atau benda)\n
+Adalah isim yang menunjukan arti nama baik nama manusia ataupun selain manusia.\n
+Contoh :\n\n
+      (Muhammad)   مُحَمَّدٌ
+        \n\n
+
+        مَكَّةَ  (Kota Makkah)
+
+        \n\n
+        النِّيْلُ (Sungai Nil)
+        \n\n
+
+7. Isim Nakiroh yang  serangkai dengan Isim Ma\’rifat\n
+Isim nakiroh akan menjadi ma\’rifat apabila bersambung dengan isim ma\’rifat.\n
+Contoh :\n\n
+
+         قَلَمُ مُحَمَّدٍ  (Pena Muhammad)
+   \n\n
+        , قَلَمُهُ  (Pena nya)
+\n\nKata قَلَمٌ adalah isim nakiroh, tetapi menjadi ma’rifat karena dirangkai dengan dengan isim ma\’rifat yaitu مُحَمَّدٍ
+        \n\n
+    </string>
+
+    <string name="berdasarkanperubahan">
+1. Isim Mu\’rob\n
+Adalah isim yang bisa berubah harokat akhirnya karena kemasukan \‘amil.\n
+\‘Amil adalah sesuatu yang bisa menyebabkan akhir suatu kalimah (kata) dibaca berbeda-beda.\n
+Contoh :\n
+جاَءَ مُحَمَّدٌ  (Muhammad telah datang)
+        \n
+رَأَيْتُ مُحَمَّدًا  (Saya telah melihat Muhammad)
+        \n
+مَرَرْتُ بٍمُحَمَّدٍ  (Saya berjalan dengan Muhammad)
+        \n\n
+Perhatikan kata مُحَمَّدُ pada ke-3 kalimat diatas. Pada kalimat pertama berharokat dhommah, pada kalimat ke-2 berharokat fathah, sedangkan pada kalimat ke-3 berharokat kasroh. Terjadinya perbedaan harokat akhir tersebut disebabkan oleh berbedanya \‘amil yang masuk pada kata tersebut yaitu جاَءَ , رَأَيْتُ, dan مَرَرْتُ. Apabila suatu isim mengalami perubahan pada bagian akhirnya ketika dimasuki oleh \‘amil yang berbeda, maka isim tersebut masuk dalam kategori isim mu\’rob.\n\n
+
+
+2. Isim Mabni\n
+            Adalah isim yang tidak mengalami perubahan pada bagian akhirnya walaupun kemasukan \‘amil.\n
+Yang termasuk isim mabni diantaranya adalah :\n
+1. Isim Dhomir (Kata Ganti)\n
+2. Isim Isyaroh (Kata Tunjuk)\n
+3. Isim Maushul (Kata Hubung)\n
+4. Isim Syarat (Isim yang memerlukan fi\’il syarat dan jawabnya)\n
+5. Isim Istifham (Kata Tanya)\n\n
+    </string>
+
+    <string name="fiil">
+        Fiil adalah Kalimah Fi\’il adalah kata yang menunjukkan arti pekerjaan atau peristiwa yang terjadi pada suatu masa atau waktu tertentu (lampau, sekarang dan yang akan datang). Hampir seperti pengertian kata kerja dalam bahasa Indonesia, namun ada perbedaan sedikit.\n\n
+        Pembagian Kalimah Fi\’il.\n\n
+
+1. Berdasaran waktu terjadinya\n
+a. Fi\’il madhi\n
+b. Fi\’il Mudhari\’\n
+c. Fi\’il Amar\n\n
+
+2. Menurut Jenis hurufnya:\n\n
+
+a. Fi\’il Shahih\n
+1) Fi\’il Salim\n
+2) Fi\’il Mahmuz\n
+3) Fi\’il Mudho\’af\n\n
+
+b. Fi\’il Mu\’tal\n
+1) Fi\’il Mitsal\n
+2) Fi\’il Ajwaf\n
+3) Fi\’il Naqish\n
+4) Fi\’il Mafruq\n
+5) Fi\’il Maqrun\n
+
+3. Menurut Objek Penderitanya\n
+a. Fi\’il Lazim\n
+b. Fi\'il muta\’addi\n
+
+4. Menurut Bentuk Aktif/ Pasif:\n
+a. Fi\’il Ma\’lum\n
+b. Fi\’il Majhul\n
+
+5. Menurut Susunan Huruf:\n
+a. Fi\’il Mujarrad\n
+b. Fi\’il Mazid\n
+
+
+
+Pembagian Fi’il berdasarkan waktu\n\n
+
+        Fi\’il Madhi\n
+1. Definisi\n
+Fi\’il madhi ialah kata kerja yang menunjukkan terjadinya suatu pekerjaan atau peristiwa pada waktu lampau (past tense).\n\n
+
+2. Tanda-tanda\n
+Tanda-tandanya antara lain tampak pada huruf asli kata kerjanya dan pada umumnya mengandung suara \“a\” , misalnya كَـتَـبَ (telah menulis), قَــرَأَ (telah membaca)\n\n
+
+3. Bentuk\n
+Fi\’il Madhi mempunyai 14 bentuk sesuai dengan banyaknya dhamir (pelaku). Dhamir itu berfungsi sebagai fa\’il (pelaku). Dengan mengambil contoh kata كَـتَـبَ (kataba)\n\n
+
+
+        Rangkuman\n
+Kalimah fi\’il adalah kata kerja yang menunjukkan pekerjaan. Pembagian kalimah fi\’il
+sebagai berikut;\n
+        Berdasaran waktu terjadinya adalah Fi\’il madhi, Fi\’il Mudhari\’, dan Fi\’il Amar; Menurut Jenis hurufnya: Fi\’il Shahih yang meliputi (Fi\’il Salim, Fi\’il Mahmuz,Fi\’il Mudho\’af) dan Fi\’il Mu\’tal (Fi\’il Mitsal, Fi\’il Ajwaf, Fi\’il Naqish, Fi\’il Mafruq, Fi\’il Maqrun); Menurut Objek Penderitanya ada: Fi\’il Lazim dan Fil muta\’addi; Menurut Bentuk Aktif/ Pasifnya terdapat Fi\’il Ma\’lum dan Fi\’il Majhul; sedangkan Menurut Susunan Hurufnya :Fi\’il Mujarrad dan Fi\’il Mazid\n\n
+
+
+
+A. Definisi:
+Kalimah Fi\’il adalah kata yang menunjukkan arti pekerjaan atau peristiwa yang terjadi pada suatu masa atau waktu tertentu (lampau, sekarang dan yang akan datang). Hampir seperti pengertian kata kerja dalam bahasa Indonesia, namun ada perbedaan sedikit.\n\n
+
+
+Contoh:\n\n
+
+Bekerjalah\n
+اُفْعُــلْ
+        \n\n
+Sedang/ akan bekerja\n
+يَفْــعُــلُ
+
+        \n\n
+Telah bekerja\n
+فَــعَــلَ
+        \n\n
+B. Pembagian Kalimah Fi\’il.\n
+1. Berdasaran waktu terjadinya\n
+a. Fi\’il madhi\n
+b. Fi\’il Mudhari\’\n
+c. Fi\’il Amar\n\n
+
+2. Menurut Jenis hurufnya:\n
+a. Fi\’il Shahih\n
+1) Fi\’il Salim\n
+2) Fi\’il Mahmuz\n
+3) Fi\’il Mudho\’af\n\n
+
+b. Fi\’il Mu\’tal\n
+1) Fi\’il Mitsal\n
+2) Fi\’il Ajwaf\n
+3) Fi\’il Naqish\n
+4) Fi\’il Mafruq\n
+5) Fi\’il Maqrun\n\n
+
+3. Menurut Objek Penderitanya\n
+a. Fi\’il Lazim\n
+b. Fi\'il muta’addi\n\n
+
+4. Menurut Bentuk Aktif/ Pasif:\n
+a. Fi\’il Ma\’lum\n
+b. Fi\’il Majhul\n\n
+
+5. Menurut Susunan Huruf:\n
+a. Fi\’il Mujarrad\n
+b. Fi\’il Mazid\n
+1. Pembagian Fi\’il berdasarkan waktu\n\n
+
+A.    Fi\’il Madhi\n
+1. Definisi\n
+Fi\’il madhi ialah kata kerja yang menunjukkan terjadinya suatu pekerjaan atau peristiwa pada waktu lampau (past tense).\n\n
+
+2. Tanda-tanda\n
+Tanda-tandanya antara lain tampak pada huruf asli kata kerjanya dan pada umumnya mengandung suara \“a\” , misalnya كَـتَـبَ (telah menulis), قَــرَأَ (telah membaca)\n\n
+
+3. Bentuk\n
+Fi\’il Madhi mempunyai 14 bentuk sesuai dengan banyaknya dhamir (pelaku). Dhamir itu berfungsi sebagai fa\’il (pelaku). Dengan mengambil contoh kata كَـتَـبَ (kataba), maka terdapat 14 bentuk sebagai berikut:\n\n
+
+
+No\n
+Dhamir\n
+Fi\'il Madhi\n
+Arti\n
+Keterangan\n
+1.\n
+هُـوَ
+        \n
+كَتَبَ
+        \n
+Dia (lk) telah menulis\n
+Bentuk asli tanpa perubahan\n\n
+
+2.\n
+هُمَـا
+        \n
+كَتَبَـا
+        \n
+Keduanya (lk) telah menulis\n
++ ا pada huruf terakhir
+        \n\n
+
+3.\n
+هُـمْ
+        \n
+كَتَبُـوْ
+        \n
+Mereka (lk) telah menulis\n
++ ـــُوْ pada huruf terakhir
+        \n\n
+
+4.\n
+هِـيَ
+        \n
+كَتَبَـتْ
+        \n
+Dia (pr) telah menulis\n
++ ـتْ pada huruf terakhir
+        \n\n
+5.\n
+
+هُمَـا
+        \n
+كَتَبَـتَا
+        \n
+Keduanya (pr) telah menulis\n
++ ـتـََا pada huruf terakhir
+        \n\n
+6.\n
+هُـنَّ
+        \n
+كَتَبْـنَ
+        \n
+Mereka (pr) telah menulis\n
++ ـْــنَ pada huruf terakhir
+        \n\n
+7.\n
+اَنْـتَ
+        \n
+كَتَبْـتَ
+        \n
+Kamu (lk) telah menulis\n
++ ـْــتَ pada huruf terakhir
+        \n\n
+8.\n
+اَنْتُمَـا
+        \n
+كَتَبْتُمـَا
+        \n
+Kalian (lk) telah menulis\n
++ ـْــتُمَـا pada huruf terakhir
+        \n\n
+9.\n
+اَنْتُـم
+        \n
+كَتَبْتُـمْ
+        \n
+Kalian (lk) telah menulis\n
++ ـْــتُمْ pada huruf terakhir
+        \n
+10.\n
+اَنْـتِ
+        \n
+كَتَبْـتِ
+        \n
+Kamu (pr) telah menulis\n
++ ـْـتِ pada huruf terakhir
+        \n\n
+
+11.\n
+اَنْتُمَـا
+        \n
+كَتَبْتُمَا
+        \n
+Kalian (pr) telah menulis\n
++ ـْتُمَـا pada huruf terakhir
+        \n\n
+12.\n
+َانْتُـنَّ
+        \n
+كَتَبْتُـنَّ
+        \n
+Kalian (pr) telah menulis\n
++ ـْـتُـنَّ pada huruf terakhir
+        \n\n
+13.\n
+
+اَنَـا
+        \n
+كَتَبْـتُ
+        \n
+Saya telah menulis\n
++ ـْــتُ pada huruf terakhir
+        \n\n
+14.\n
+نَحْنُ
+        \n
+كَتَبْـنَا
+        \n
+Kami, kita telah menulis\n
++ ــْـنَـا Pada huruf terakhir
+        \n\n
+
+
+
+
+
+Rangkumann
+Kalimah fi\’il adalah kata kerja yang menunjukkan pekerjaan. Pembagian kalimah fi\’il
+sebagai berikut; \n
+        Berdasaran waktu terjadinya adalah Fi\’il madhi, Fi\’il Mudhari\’, dan Fi\’il Amar; Menurut Jenis hurufnya: Fi\’il Shahih yang meliputi (Fi\’il Salim, Fi\’il Mahmuz,Fi\’il Mudho\’af) dan Fi\’il Mu\’tal (Fi\’il Mitsal, Fi\’il Ajwaf, Fi\’il Naqish, Fi\’il Mafruq, Fi\’il Maqrun); Menurut Objek Penderitanya ada: Fi\’il Lazim dan Fil muta\’addi; Menurut Bentuk Aktif/ Pasifnya terdapat Fi\’il Ma’lum dan Fi\’il Majhul; sedangkan Menurut Susunan Hurufnya :Fi\’il Mujarrad dan Fi\’il Mazid\n\n
+
+
+
+
+FI\’IL MUDHARI\’\n\n
+فِـعْـلُ الْمُـضَــارِعْ
+        \n\n
+Definisi\n
+Fi\’il Mudhari\’ adalah yang menunjukkan pekerjaan atau peristiwa yang sedang terjadi (present tense) atau akan terjadi (future tense).\n\n
+B.     Ciri/ tandanya:\n
+1. Dapat dimasuki huruf sin س dan saufa سَوْفَ contoh: سَيَشْـهَدُ, سَوْفَ يَشْـهَدُ
+        \n\n
+2. Dapat diawali dengan salah satu di antara empat huruf ا,ن,ي,ت (اَنَيْتُ) yang disebut huruf mudhara\’ah\n\n
+        3.  Dapat dimasuki huruf لاَ (tidak)\n
+Contoh:\n
+
+لاَ يَذْهَـبُ, لاَ يَشْـهَدُ, لاَ يَضْـرِبُ
+        \n\n
+        Rangkuman\n
+Fi\’il Mudhari\’ adalah yang menunjukkan pekerjaan atau peristiwa yang sedang terjadi (present tense) atau akan terjadi (future tense).\n
+Cara membuatnya Huruf asli dalam Fi\’il madhi diberi tambahan salah satu huruf mudhara\’ah, huruf ke dua sukun (mati)\n
+Ciri/ tandanya adalah (1) Dapat dimasuki huruf sin س dan saufa سَوْفَ (2) dapat diawali dengan salah satu di antara empat huruf ا,ن,ي,ت (اَنَيْتُ) yang disebut huruf mudhara\’ah (3) Dapat dimasuki huruf لاَ (tidak) Bentuknya ada 14 bentuk sesuai dhamirnya.\n
+        \n
+
+
+A. Definisi:\n
+Kalimah Fi\’il adalah kata yang menunjukkan arti pekerjaan atau peristiwa yang terjadi pada suatu masa atau waktu tertentu (lampau, sekarang dan yang akan datang). Hampir seperti pengertian kata kerja dalam bahasa Indonesia, namun ada perbedaan sedikit.\n\n
+
+
+Contoh:\n
+Bekerjalah\n
+اُفْعُــلْ
+        \n\n
+Sedang/ akan bekerja\n
+يَفْــعُــلُ
+        \n\n
+Telah bekerja\n
+فَــعَــلَ
+        \n\n
+
+B. Pembagian Kalimah Fi\’il.\n\n
+
+1. Berdasaran waktu terjadinya\n
+a. Fi\’il madhi\n
+b. Fi\’il Mudhari\’\n
+c. Fi\’il Amar\n\n
+
+2. Menurut Jenis hurufnya:\n
+a. Fi\’il Shahih\n
+1) Fi\’il Salim\n
+2) Fi\’il Mahmuz\n
+3) Fi\’il Mudho\’af\n\n
+
+b. Fi\’il Mu\’tal\n
+1) Fi\’il Mitsal\n
+2) Fi\’il Ajwaf\n
+3) Fi\’il Naqish\n
+4) Fi\’il Mafruq\n
+5) Fi\’il Maqrun\n\n
+
+3. Menurut Objek Penderitanya\n
+a. Fi\’il Lazim\n
+b. Fil muta\’addi\n\n
+
+4. Menurut Bentuk Aktif/ Pasif:\n
+a. Fi\’il Ma\’lum\n
+b. Fi\’il Majhul\n\n
+
+5. Menurut Susunan Huruf:\n
+a. Fi\’il Mujarrad\n\n
+b. Fi\’il Mazid\n\n
+
+1. Pembagian Fi\’il berdasarkan waktu\n\n
+
+A.    Fi\’il Madhi\n\n
+
+1. Definisi\n
+Fi\’il madhi ialah kata kerja yang menunjukkan terjadinya suatu pekerjaan atau peristiwa pada waktu lampau (past tense).\n\n
+
+2. Tanda-tanda\n
+Tanda-tandanya antara lain tampak pada huruf asli kata kerjanya dan pada umumnya mengandung suara \“a\” , misalnya كَـتَـبَ (telah menulis), قَــرَأَ (telah membaca)\n\n
+
+3. Bentuk\n
+Fi\’il Madhi mempunyai 14 bentuk sesuai dengan banyaknya dhamir (pelaku). Dhamir itu berfungsi sebagai fa\’il (pelaku). Dengan mengambil contoh kata كَـتَـبَ (kataba), maka terdapat 14 bentuk sebagai berikut:\n\n
+
+
+No\n
+Dhamir\n
+F. Madhi\n
+Arti\n
+Keterangan\n\n
+
+1.\n
+هُـوَ
+   \n
+كَتَبَ
+        \n
+Dia (lk) telah menulis\n
+Bentuk asli tanpa perubahan\n\n
+
+2.\n
+هُمَـا
+        \n
+كَتَبَـا
+        \n
+Keduanya (lk) telah menulis\n
++ ا pada huruf terakhir
+        \n\n
+
+3.\n
+هُـمْ
+        \n
+كَتَبُـوْ
+        \n
+Mereka (lk) telah menulis\n
++ ـــُوْ pada huruf terakhir
+        \n\n
+
+4.\n
+هِـيَ
+        \n
+كَتَبَـتْ
+        \n
+Dia (pr) telah menulis\n
++ ـتْ pada huruf terakhir
+        \n\n
+
+5.\n
+هُمَـا
+        \n
+كَتَبَـتَا
+        \n
+Keduanya (pr) telah menulis\n
++ ـتـََا pada huruf terakhir
+        \n\n
+
+6.\n
+هُـنَّ
+        \n
+كَتَبْـنَ
+        \n
+Mereka (pr) telah menulis\n
++ ـْــنَ pada huruf terakhir
+        \n\n
+
+7.\n
+اَنْـتَ
+        \n
+كَتَبْـتَ
+        \n
+Kamu (lk) telah menulis\n
++ ـْــتَ pada huruf terakhir
+        \n\n
+
+8.\n
+اَنْتُمَـا
+        \n
+كَتَبْتُمـَا
+        \n
+Kalian (lk) telah menulis\n
++ ـْــتُمَـا pada huruf terakhir
+        \n\n
+
+9.\n
+اَنْتُـم
+        \n
+كَتَبْتُـمْ
+        \n
+Kalian (lk) telah menulis\n
++ ـْــتُمْ pada huruf terakhir
+        \n\n
+
+10.\n
+اَنْـتِ
+        \n
+كَتَبْـتِ
+        \n
+Kamu (pr) telah menulis\n
++ ـْـتِ pada huruf terakhir
+        \n
+
+11.\n
+اَنْتُمَـا
+        \n
+كَتَبْتُمَا
+        \n
+Kalian (pr) telah menulis\n
++ ـْتُمَـا pada huruf terakhir
+        \n
+
+12.\n
+َانْتُـنَّ
+        \n
+كَتَبْتُـنَّ
+        \n
+Kalian (pr) telah menulis\n
++ ـْـتُـنَّ pada huruf terakhir
+        \n\n
+
+13.\n
+اَنَـا
+        \n
+كَتَبْـتُ
+        \n
+Saya telah menulis\n
++ ـْــتُ pada huruf terakhir
+        \n\n
+
+14.\n
+نَحْنُ
+        \n
+كَتَبْـنَا
+        \n
+Kami, kita telah menulis\n
++ ــْـنَـا Pada huruf terakhir
+        \n\n
+
+contoh:
+
+
+
+
+
+
+Rangkuman \n
+Kalimah fi\’il adalah kata kerja yang menunjukkan pekerjaan. Pembagian kalimah fi\’il
+sebagai berikut; \n
+        Berdasaran waktu terjadinya adalah Fi\’il madhi, Fi\’il Mudhari\’, dan Fi\’il Amar; Menurut Jenis hurufnya: Fi\’il Shahih yang meliputi (Fi\’il Salim, Fi\’il Mahmuz,Fi\’il Mudho\’af) dan Fi\’il Mu\’tal (Fi\’il Mitsal, Fi\’il Ajwaf, Fi\’il Naqish, Fi\’il Mafruq, Fi\’il Maqrun); Menurut Objek Penderitanya ada: Fi\’il Lazim dan Fil muta\’addi; Menurut Bentuk Aktif/ Pasifnya terdapat Fi\’il Ma\’lum dan Fi\’il Majhul; sedangkan Menurut Susunan Hurufnya :Fi\’il Mujarrad dan Fi\’il Mazid\n\n
+
+
+
+
+FI\’IL MUDHARI\’    فِـعْـلُ الْمُـضَــارِعْ
+        \n\n
+
+Definisi\n
+Fi\’il Mudhari\’ adalah yang menunjukkan pekerjaan atau peristiwa yang sedang terjadi (present tense) atau akan terjadi (future tense).\n\n
+
+B.     Ciri/ tandanya:\n
+1. Dapat dimasuki huruf sin س dan saufa سَوْفَ contoh: سَيَشْـهَدُ, سَوْفَ يَشْـهَدُ
+
+        \n\n
+
+2. Dapat diawali dengan salah satu di antara empat huruf ا,ن,ي,ت (اَنَيْتُ) yang disebut huruf mudhara\’ah\n\n
+
+
+huruf = ا\n
+
+أذْهَـبُ
+        \n\n
+
+huruf = ي\n
+يَذْهَـبُ, يَذْهَبَـانِ, يَذْهَبُــونَ
+        \n\n
+
+huruf = ن\n
+نَذْهَـبُ
+        \n\n
+
+ت = huruf
+        \n
+تَذْهَـبُ, تَذْهَبَــانِ, تَذْهِبْــنَ
+        \n\n
+
+3. Dapat dimasuki huruf لاَ (tidak)\n\n
+Contoh:\n
+
+لاَ يَذْهَـبُ, لاَ يَشْـهَدُ, لاَ يَضْـرِبُ
+        \n\n
+
+Contoh :\n
+
+يَخْلُقُ    (yakhluqu)=sedang/akan menciptakan
+        \n\n
+
+يَخْرُجُ   (yakhruju)= sedang/akan mengeluarkan
+        ¥˜n
+
+يَأْمُر     (ya\’muru)= sedang/akan memerintahkan
+        \n\n
+
+يَأْكُلُ    (ya\’kulu)= sedang/akan memakan
+        \n\n
+
+
+C.     Bentuk\n
+Seperti Fi\’il madhi, Fi\’il mudhari\’ juga mempunyai 14 bentuk sesuai dhamirnya. Contoh\n\n
+
+No\n
+Dhamir\n
+F. Madhi\n
+Arti\n
+Perub\n
+Letak perubahan\n\n
+
+1\n
+هُـوَ
+        \n
+يَضْـرِبُ
+        \n
+Dia (lk) sedang/ akan memukul\n
+….
+Akhir kata\n\n
+
+2\n
+هُمَـا
+        \n
+يَضْرِبَـانِ
+        \n
+Keduanya (lk) sedang/ akan memukul\n
+….َانِ
+        \n
+Akhir kata\n\n
+
+3\n
+هُـمْ
+        \n
+يَضْرِبُـونَ
+        \n
+Mereka (lk) sedang/ akan memukul\n
+…ُوْنَ
+        \n
+Akhir kata\n\n
+
+4\n
+هِـيَ
+        \n
+تَضْـرِبُ
+        \n
+Dia (pr) sedang/ akan memukul\n
+تَ….
+        \n
+Awal kata\n\n
+
+5\n
+هُمَـا
+        \n
+تَضْرِبان
+        \n
+
+Keduanya (pr) sedang/ akan memukul\n
+تَ…َانِ
+        \n
+Awal dan akhir\n\n
+
+6\n
+هُـنَّ
+        \n
+يَضْـرِبْنَ
+        \n
+Mereka (pr) sedang/ akan memukul\n
+تَ…بْنَ
+        \n
+Awal dan akhir\n\n
+
+7\n
+اَنْـتَ
+        \n
+تَضْـرِبُ
+        \n
+Kamu (lk) sedang/ akan memukul\n
+تَ…
+        \n
+Awal kata\n\n
+
+8\n
+اَنْتُمَـا
+        \n
+تَضْـرِبانِ
+        \n
+Kalian (lk) sedang/ akan memukul\n
+تَ…َانِ
+        \n
+Awal dan akhir\n\n
+
+9\n
+اَنْتُـم
+        \n
+تَضْـرِبُوْنِ
+        \n
+Kalian (lk) sedang/ akan memukul\n
+ت…ُوْنَ
+        \n
+Awal dan akhir\n\n
+
+10\n
+اَنْـتِ
+        \n
+تَضْـرِبِيْنَ
+        \n
+Kamu (pr) sedang/ akan memukul\n
+تَ…بِيْنَ
+        \n
+Awal dan akhir\n\n
+
+11\n
+اَنْتُمَـا
+        \n
+تَضْـرِبَانِ
+        \n
+Kalian (pr) sedang/ akan memukul\n
+تَ…َانِ
+        \n
+Awal dan akhir\n\n
+
+12\n
+َانْتُـنَّ˜
+        \n
+تَضْـرِبْنَ
+        \n
+Kalian (pr) sedang/ akan memukul\n
+تَ…بْنَ
+        \n
+Awal dan akhir\n\n
+
+13\n
+اَنَـا
+        \n
+اَضْـرِبُ
+        \n
+Saya sedang/ akan memukul\n
+ا…..
+        \n
+Awal kata\n\n
+
+14\n
+نَحْنُ
+        \n
+نَضْـرِبُ
+        \n
+Kami, kita sedang/ akan memukul\n
+نَ……
+        \n
+Awal kata\n\n
+
+
+Rangkuman\n
+Fi\’il Mudhari\’ adalah yang menunjukkan pekerjaan atau peristiwa yang sedang terjadi (present tense) atau akan terjadi (future tense).\n
+Cara membuatnya Huruf asli dalam Fi\’il madhi diberi tambahan salah satu huruf mudhara\’ah, huruf ke dua sukun (mati)\n
+Ciri/ tandanya adalah (1) Dapat dimasuki huruf sin س dan saufa سَوْفَ (2) dapat diawali dengan salah satu di antara empat huruf ا,ن,ي,ت (اَنَيْتُ) yang disebut huruf mudhara\’ah (3) Dapat dimasuki huruf لاَ (tidak) Bentuknya ada 14 bentuk sesuai dhamirnya.\n\n
+
+
+FI\’IL AMAR\n
+فِــعِــل الامــر
+
+        \n\n
+A.    Definisi\n
+Fi\’il Amar adalah: kata kerja yang menunjukkan perintah (imperative) untuk melaksanakan pekerjaan\n\n
+B.     Tanda-tanda\n
+Biasanya diawali dengan huruf alif dan huruf akhir berharakat sukun. Contoh :\n\n
+
+اُكْتُبْ
+        \n
+tulislah\n\n
+
+اِقْـرَءْ
+        \n
+Bacalah\n\n
+
+اِحْفَظْ
+        \n
+Hafalkan\n\n
+
+        Cara membuat\n\n
+a. Dari Fi\’il madhi,\n
+b. dibuang ya mudhari’nya (yaitu huruf awal Fi\’il mudhari\’)\n
+c. huruf akhir diberi harakat sukun\n
+d. Bila setelah dibuang ya mudhari\’nya ternyata huruf awalnya berharakat sukun(ـْـ) maka ditambah dengan hamzah washal (ا) yang berkasrah yang tak perlu ditulis harakat kasrahnya.
+Langkah-langkah membuat Fi\’il amar\n\n
+        Rangkuman\n
+Fiil Amar adalah kata kerja yang menunjukkan arti perintah untuk melakukan pekerjaan.. Biasanya diawali dengan huruf alif dan huruf akhir berharakat sukun. Bentuknya ada enam.\n\n
+
+        2. Menurut Jenis hurufnya:\n\n
+A.    Fi\’il shahih\n
+Definisi\n
+Fi\’il shahih adalah kalimah Fi\’il yang huruf aslinya tidak berupa huruf illat yaitu (و,ا,ي ).\n\n
+
+Pembagian\n
+Fi\’il shahih ini dibedakan menjadi beberapa tipe (bina\’)\n
+a.       Fi\’il salim, yaitu fi\’il yang huruf aslinya tidak berupa huruf hamzah atau tidak mudha\’af (dobel)\n\n
+        Fi\’il mahmuz, adalah Fi\’il yang salah satu hurufnya berupa huruf illat. Berdasarkan huruf illatnya, Fi\’il mahmuz terdiri dari\n
+1. mahmuz fa\’, yaitu apabila huruf awal (fa\’ fi\’il) kata kerja berupa hamzah\n
+        2. Mahmuz \‘ain yaitu apabila huruf kedua (\‘ain fi\’il) kata kerja berupa hamzah\n
+3. Mahmuz lam, yaitu apabila huruf akhir (lam fi\’il) kata kerja berupa hamzah\n\n
+c.       Fi\’il Mudha\’af ialah kata yang huruf kedua (\‘ain Fi\’il) dan huruf ketiga (lam Fi\’il) berupa huruf yang sama, kemudian ditasydidkan\n\n
+
+        B. Fi\’il Mu\’tal\n
+Definisi\n
+Fi\’il mutal ialah fi\’il yang huruf aslinya berupa huruf illat.\n
+Pembagian\n
+Fi\’il mu\’tal ini terdiri 5 macam yaitu:\n\n
+a.       Fi\’il mitsal, yaitu Kata yang fa\’ fi\’il (huruf pertama) berupa wawu((و disebut Mitsal wawi (ميثال واوي ) atau berupa ya (ي ) disebut mitsal Ya\’I ( ميثال يأـي )\n\n
+        b. Fi\’il ajwaf, Fi\’il ini terdiri dari dua macam yaitu:\n\n
+
+1) Ajwaf Wawi (أجوف واوى ( yaitu kata yang huruf keduanya berupa huruf wawu و , dan\n\n
+2) Ajwaf Ya\’i (أجوف يأى ), yaitu kata yang huruf keduanya ( ع) berupa huruf Ya ( ي )\n\n
+        c. Fi\’il naqish, yaitu kata kerja yang huruf ketiga (lam fi\’il) berupa huruf wawu atau ya.\n
+Fi\’il ini ada dua macam yaitu:\n\n
+1) Naqish wawi ( نا قص واوي ) kata yang huruf ketiganya berupa wawu ( و), dan\n\n
+2) Naqish Ya\’i (نا قص يَأي ): Kata yang huruf ketiganya berupa ya ( ي )\n\n
+        d. Fi\’il lafif mafruq ( لَفِيْــف مَفْــرُوْق) yaitu kata kerja yang huruf pertamanya (fa\’ Fi\’il) berupa wawu (و ) dan huruf ketiganya (lam Fi\’il) berupa ya (ي)\n\n
+e. Fi\’il Lafif Maqrun kata kerja yang huruf kedua (\’ain Fi\’il) berupa wawu (و ) dan huruf ketiganya (lam Fi\’il) berupa ya (ي)\n\n
+        Rangkuman\n
+Fi\’il shahih adalah kalimah Fi\’il yang huruf aslinya tidak berupa huruf illat yaitu (و,ا,ي ). Fiil mu\’tal adalah fiil yang terdapat huruf illat. Berdasarkan letak huruf illat terdapat fiil bina\’ mahmuz, naqish, ajwaf, mitsal,dan lafif\n\n
+3. Pembagian Fi’il menurut Objek Penderitanya\n
+
+Fi\’il Lazim dan Fil muta\’addi\n\n
+A. Fi\’il Lazim\n
+Fi\’il Lazim yaitu fi\’il yang hanya memiliki fa\’il atau pelaku, tetapi tidak memiliki maf\’ul bih (pelengkap penderita). Dalam bahasa Indonesia disebut kata kerja intransitif\n
+        B.Fi\’il Muta\’addi,\n
+Fi\’il Muta\’addi yaitu fi\’il yang tidak hanya memiliki pelaku (Fa\’il) tetapi harus dilengkapi dengan maf\’ul bih (Objek penderita). Di dalam bahasa Indonesia disebut Kata kerja transitif.\n\n
+        Rangkuman\n
+Fi\’il Lazim /kata kerja intransitive yaitu fi\’il yang hanya memiliki fa\’il atau pelaku, tetapi tidak memiliki maf\’ul bih (pelengkap penderita). Sedang Fi\’il Muta\’addi / Kata kerja transitif yaitu fi\’il harus dilengkapi dengan maf\’ul bih (Objek penderita).\n\n
+        Pembagian Fi’il Menurut Bentuk Aktif/ Pasifnya\n\n
+
+A. Fi\’il Ma\’lum\n
+Definisi\n
+Fi\’il Ma\’lum adalah fi\’il yang disebutkan fa\’ilnya dan mempunyai pengertian aktif.\n\n
+        B. Fi\’il Majhul\n
+
+Definisi\n
+Fi\’il majhul ialah Fi\’il yang fa\’ilnya dibuang dan digantikan oleh maf\’ul bih (objek penderita). Fi\’il ini disebut juga kata kerja pasif. Fi\’il ini hanya mempunyai dua bentuk yaitu Fi\’il madhi dan fi\’il mudhari\’\n\n
+Cara membuat Fi\’il ma\’lum menjadi fi\’il majhul\n\n
+Huruf pertama Fi\’il madhi diberi harakah dhammah, huruf sebelum terakhir diberi harakat kasrah.\n\n
+
+Pembagian Fi\’il menurut menurut susunan huruf\n\n
+Fi\’il Mujarrad dan Fi\’il Mazid\n\n
+A. Fi\’il Mujarrad\n
+Definisi\n
+
+Fi\’il mujarrad adalah kata kerja yang semua hurufnya huruf asli, belum mendapatkan tambahan huruf.\n\n
+Contoh:\n
+
+كَتَبَ – يَكْتُبُ , زَلَـزَلَ – يُـزَلْـزِلُ
+
+        \n\n
+
+Fi\’il mujarrad dibedakan menjadi dua macam\n
+Fi\’il Tsulatsy mujarrad, yaitu fi\’il yang huruf aslinya terdiri tiga huruf.\n\n
+
+
+B. Fi\’il Mazid\n\n
+Definisi\n
+Fi\’il mazid adalah fi’il yang huruf aslinya mendapatkan tambahan.\n\n
+Pembagian\n
+Fi\’il ini dibedakan menjadi dua macam, yaitu fi\’il tsulatsy mazid dan fi\’il ruba\’y mazid.\n
+1. fi\’il tsulatsy mazid, adalah fi\’il tsulatsy (aslinya 3 huruf) yang mendapatkan tambahan satu huruf, dua huruf dan tiga huruf.\n\n
+a) yang mendapatkan tambahan satu huruf ada tiga pola (wazan) yaitu\n\n
+No\n
+Pola\n
+contoh\n\n
+1\n
+فَعَّــلَ – يُفَـعِّــلُ
+        \n
+عَـلَّــمَ , سَــلَّــمَ
+\n\n
+
+2\n
+فَاعَـلَ – يُفَـاعِـلُ
+        \n
+قَـاتَــلَ جَــاهَـدَ
+        \n\n
+
+3\n
+أَفْــعَـلَ – يُفْــعِــلُ
+        \n
+اَكْــرَمَ – اَسْــلَــمَ
+        \n\n
+
+b) yang mendapatkan tambahan dua huruf ada lima pola (wazan) yaitu\n\n
+No\n
+pola\n
+Contoh kata\n\n
+
+1\n
+تَفَـاعَـلَ – يَتَفَــاعَـلُ
+        \n
+تَقَـارَبَ - يَتَقَـارَبُ
+        \n\n
+
+2\n
+تَفَـعَّــلَ – يَتَفَـعَّــلُ
+        \n
+تَقَـدَّمَ – يَتَقَـدَّمُ
+        \n\n
+
+3\n
+اَفْتَعَــلَ – يَفْتَـعِــلُ
+        \n
+اِجْتَمَــعَ – يَجْتَمِــعُ
+        \n\n
+
+4\n
+اِنْفـعَــلَ – يَنْفَـعِــلُ
+        \n
+اَنْقَطَــعَ – يَنْقَطِــعُ
+        \n\n
+
+5\n
+اِفْـعَــلَّ – يَفـْعَــلُّ
+        \n
+اِحْمَــرَّ – يَحْمَــرُّ
+        \n\n
+
+c) yang mendapatkan tambahan tiga huruf ada empat pola (wazan) yaitu\n\n
+No\n
+Pola\n
+Contoh kata\n\n
+1\n
+اِسْتَــفْعَلَ - يَسْتَفْــعِلُ
+        \n
+اِسْتَــغْـفَرَ – يَسْتَغْــفِرُ
+        \n\n
+
+2\n
+اِفْعَــوْعَـلَ – يَفْعَوعِـلُ
+        \n
+اِغْـرَوْرِقَ – يَغْـرَوْرِقَ
+        \n\n
+
+3\n
+اَفْــعَـالَّ – يَفْعَــالُّ
+        \n
+اَحْمَـارَّ – يَحْمَــارُّ
+        \n
+        تَقَـارَبَ - يَتَقَـارَبُ
+        \n\n
+4\n
+اَفْعَـــوَّلَ – يَفْعَــوِّلُ
+        \n
+اِعْـلَـوَّطَ – يَعْـلَوِّطُ
+        \n\n
+
+        Fi\’il ruba\’I mazid adalah fi\’il ruba\’I (huruf asal 4 huruf) yang mendapakan tambahan satu atau dua huruf. Fi\’il ini mempunyai pola sebagai berikut\n\n
+a) Yang mendapatkan tambahan satu huruf\n\n
+Pola\n
+Contoh\n\n
+
+تًفَعْـلَــلَ – يَتَـفَـعْـلَــلُ
+        \n
+تَدَخْــرَجَ , تَبَسْمَــلَ
+        \n\n
+
+
+
+b) Yang mendapatkan tambahan satu huruf\n\n
+No\n
+Pola\n
+Contoh kata\n\n
+1\n
+اِفْعَنْلَـلَ – يَفْـعَنْـلِـلُ
+        \n
+اِخْـرَنْجَــمَ – يَخْـرَنْجِـمُ
+        \n\n
+
+2\n
+اَفْعَلَــلَّ – يَفْـعِــلُّ
+        \n
+اِطْمَـأَنَّ – يَطْمَـئِـنُّ
+        \n\n
+
+Rangkuman\n
+Pada dasarnya kata kerja (kalimah fiil) itu berjumlah tiga huruf (tsultsy) dan empat huruf (ruba\’i). Dari huruf asal tadi ada yang mendapat tambahan mulai dari satu huruf sampai tiga huruf. Fiil berdasarkan tambahannya hurufnya fiil dibagi menjadi fiil mujarrad dan fiil mazid. Perubahan mujarrad menjadi mazid tersebut mempunyai fungsi-fungsi tertentu.\n\n
+
+
+    </string>
+
+    <string name="dhomir">
+Dhomir itu bahasa Indonesia nya \‘kata ganti\’.\n\n Seperti \‘aku\’, \‘kamu\’, \‘kita\’ dan \‘dia\’. \n\n Dhomir dalam bahasa arab ada 14. Sedangkan dalam bahasa inggris dan bahasa Indonesia jumlah kata ganti hanya 7 (bener gak?).\n\n
+
+Dhomir adalah Isim Mabni, yaitu Isim yang tidak berubah harokat akhirnya baik dalam keadaan rofa, nashob maupun jarr sehingga kalau di i\’rob nanti begini: \“Fii mahalli rof\’in/jarrin/nashbin\” [menempati kedudukan rofa\’ jarr nashob]. Hanya menempati kedudukan, tapi harokat akhir tidak berubah\n\n
+
+Dhomir ada yang terpisah/ berdiri sendiri yaitu dhomir munfashil (ضَمِيْرٌ مُنْفَصِلٌ) misalnya  هُوَ طَبِيْبٌ. Ada juga dhomir yang bersambung dengan kalimat yaitu dhomir muttasil (ضَمِيْرٌ مُتَّصِلٌ) baik dengan fiil (cth:كَتَبْتُ) isim (cth: كِتَابِهِ) atau huruf (cth: فِيهِ).\n\n
+
+Dhomir ada yang menempati kedudukan rofa\’, nashob dan jarr. Rofa\’ sebagai mubtada\’, khobar, fa’il atau naibul fa’il, isim kaana; Nashob sebagai maf’ul bihi dan isim inna; dan jarr sebagai mudhof ilayhi dan majrur karena didahului huruf jar. Tidak ada dhomir yang menempati kedudukan Jazm karena dhomir adalah isim dan isim tidak ada yang majzum. Apa itu rofa\’, nashob, jarr, jazm? .\n\n
+
+Dhomir bisa tampak (ضَمِيْرٌ ظَاهِرٌ) misalnya كَتَبْتُada juga yang tidak tampak (ضَمِيْرٌ مُسْتَتِرٌ) contohnya كَتَبَ.\n\n
+
+Perinciannya bgini:\n\n
+
+Dhomir, terbagi menjadi 3, dhomir munfashil (ضَمِيْرٌ مُنْفَصِلٌ), dhomir muttasil (ضَمِيْرٌ مُتَّصِلٌ) dan dhomir mustatir (ضَمِيْرٌ مُسْتَتِ). Ada juga yang membaginya menjadi dhomir baariz/dzohir (tampak) dan dhomir mustatir (tersembunyi) dan selanjutnya dhomir dzohir terbagi menjadi dhomir munfashil dan dhomir muttasil. Sama aja.\n\n
+
+1. Dhomir Munfashil (ضَمِيْرٌ مُنْفَصِلٌ)  yaitu dhomir yang terpisah, berdiri sendiri. Dhomir munfashil dapat berkedudukan:\n\n
+
+Rofa (ضمائر رفع منفصلة) sebagai\n
+Mubtada (مبتدأ) diawal kalimat\n
+Khobar (خبر)\n
+Faa\’il (فاعل) dan\n
+Naa\’ib Faa’il (نائب الفاعل)\n
+Nashob (ضمائر نصب منفصلة) sebagai\ n
+Maf\’ul Bihi (مفعوال به )
+        \n\n
+
+2. Dhomir Muttashil (ضَمِيْرٌ مُتَّصِلٌ) yaitu dhomir yang selalu bersambung dengan kata (الكلمة) setelahnya. Dhomir Muttashil dapat berkedudukan:\n\n
+
+Rofa\’ (ضمائر رفع متصّل) sebagai\n
+Faa\’il (فاعل) yaitu ketika bersambung dengan Fi\’il (فعل). [cth:نَصَرْتَ]\n\n
+Isim Kaana dan saudara saudaranya (اسم كان و أخواتها); yaitu ketika bersambung dengan Kaana dan saudara-saudaranya. [cth: كُنْتُ]\n\n
+Nashob (ضمائر نصب متصّل)sebagai\n\n
+Maf\’uulun bihi (مفعول به) yaitu ketika bersambung dengan fi’il (فعل). [cth:إِيَّاكَ]\n\n
+Isim Inna dan saudara saudaranya (اسم  إنّ و أخواتها) yaitu ketika bersambung dengan Inna dan saudara saudaranya (إنَّه)\n\n
+Jarr/Khofd (ضمائر  جرّ متصّل)\n\n
+Susunan Jar-Majrur (جر و مجرور) ketika bersambung dengan huruf Jar (حرف الجرّ). [cth: فِيْهِ]\n\n
+Mudhof ilayh (مضاف إليه) ketika bersambung dengan Isim (الاسم). [cth: بَلَدُهُ]\n\n
+
+3. Dhomir Mustatir (ضَمِيْرٌ مُسْتَتِرٌ yaitu dhomir yang tidak tampak/tersembunyi dan tidak juga di lafadzkan.\n\n
+
+Dhomir mustatir ada dua macam, (1) dhomir mustatir wujuban {الضمير المستتر وجوبا}  dan (2) dhomir mustatir jawazan {الضمير المستتر جوازا}\n\n
+
+Dhomir Mustatir Wujuban {الضمير المستتر وجوبا} adalah dhomir yang tidak bisa digantikan oleh isim dhohir yang semakna. Isim dhohirnya wajib gak tampak. Dhomir ini hanya ada pada beberapa fiil yaitu:\n\n
+Pada Fi\’il Amr dengan dhomir ‘anta [أُكْتُبْ]\n\n
+Pada Fi\’il Mudhori yang diawali dengan\n\n
+-Ta’ khitoob waahid (تاء خطاب الواحد) yaituتَشْكُرُ\n\n
+
+-Hamzah (الهمزة) yaituأَشْكُرُ\n\n
+
+-Nuun -nahnu- yaituنَشْكُرُ\n\n
+
+2.   Dhomir Mustatir Jawazan {الضمير المستتر وجوبا}adalah dhomir yang bisa digantikan oleh isim dhohir yang semakna.\n\n
+
+Yang termasuk dhomir mustatir jawazan ini adalah semua fiil madhi dan mudhori dengan dhomir ghooib/ghooibah\n\n
+
+Contoh lengkap dhomir dhomir yang telah disebutkan diatas dapat dilihat di tabel berikut:\n\n
+
+– Dhomir Dhohir (ضَمِيْرٌ ظَاهِرٌ)\n
+Yang berwarna merah itu adalah dhomirnya. Yang paling kanan adalah dhomir munfashil (dhomir yang berdiri sendiri), sisanya  adalah dhomir muttasil\n\n
+
+– Dhomir Mustatir/ Tersembunyi (ضَمِيْرٌ مُسْتَتِ)\n
+Kalau dhomir mustatir tidak ada yang berwarna merah karena seluruh dhomirnya tidak tampak dan tidak juga di lafadzkan.\n\n
+    </string>
+
+    <string name="tashrif">
+        Secara bahasa Tasrif berarti perubahan. Yang dimaksud dengan perubahan disini adalah perubahan bentuk kata dari satu bentuk ke bentuk lainnya. Tasrif dibagi 2: Tasrif Lughawi dan Tasrif Istilahi.\n\n
+
+Tasrif Lughawi adalah perubahan kata dari satu bentuk ke bentuk lain dengan pelaku yang berbeda-beda.\n\n
+
+        Tasrif Lughawi tidak hanya terbatas pada tasrif fiil saja, melainkan pada shigat (bentuk kata) yang lain seperti pada isim fail, isim maf\’ul, masdar dan lainnya.\n\n
+
+Adapun Tasrif Istilahi adalah perubahan kata dari satu bentuk ke bentuk lain dengan makna yang berbeda-beda.\n\n
+
+
+    </string>
+
+    <string name="isimisyaroh">
+اِسْم إِشَارَة
+        \n\n
+
+Untuk lebih memahami penggunaan Mudzakkar dan Muannats, serta Mufrad, Mutsanna dan Jamak dalam pengelompokan Isim, kita akan mempelajari tentang Isim Isyarah atau Kata Tunjuk dan Isim Maushul atau Kata Sambung.
+Pertama, Isim Isyarah. Pada dasarnya, ada dua macam Kata Tunjuk:\n\n
+
+1) Isim Isyarah atau Kata Tunjuk untuk yang dekat:
+       هَذَا :  (ini)
+        \n\n
+Contoh dalam kalimat: \n\n
+        هَذَا كِتَابٌ : ( ini sebuah buku)
+        \n\n
+
+2) Isim Isyarah atau Kata Tunjuk untuk yang jauh:\n\ng
+         ذَلِكَ : (itu)
+        \n\n
+
+Contoh dalam kalimat:
+        ذَلِكَ كِتَابٌ  : (itu sebuah buku)
+        \n\n
+
+Bila Isim Isyarah itu menunjuk kepada Isim Muannats maka:\n\n
+
+    1).
+        هَذَا menjadi : هَذِهِ (= ini).
+        \n\n
+        Contoh: هَذِهِ مَجَلَّةٌ (= ini sebuah majalah)
+        \n\n
+
+        2).
+        ذَلِكَ menjadi : تِلْكَ (=itu).
+        \n\n
+        Contoh: تِلْكَ مَجَلَّةٌ (= itu sebuah majalah)
+        \n\n
+
+
+        Adapun bila Isim yang ditunjuk itu adalah Mutsanna (Dual), maka:\n\n
+        1).
+
+        هَذَا
+          menjadi   هَذَانِ. Contoh: هَذَانِ كِتَابَانِ (= ini dua buah buku)\n\n
+        2).
+      هَذِهِ
+        menjadi هَتَانِ. Contoh: هَتَانِ مَجَلَّتَانِ (= ini dua buah majalah)\n\n
+        ذَلِكَ
+        menjadi ذَانِكَ. Contoh: ذَانِكَ كِتَابَانِ (= itu dua buah buku)\n\n
+        تِلْكَ
+        menjadi تَانِكَ. Contoh: تَانِكَ مَجَلَّتَانِ (= itu dua buah majalah)\n\n
+
+        Sedangkan bila Isim yang ditunjuk itu adalah Jamak (lebih dari dua):\n
+1). Bila Isim yang ditunjuk itu adalah tidak berakal, maka baik Isim Mudzakkar maupun Isim Muannats, menggunakan: هَذِهِ (=ini) untuk menunjuk yang dekat dan تِلْكَ (=itu) untuk menunjuk yang jauh. Contoh dalam kalimat:\n\n
+ هَذِهِ كُتُبٌ
+        (= ini buku-buku); هَذِهِ مَجَلاَّتٌ (= ini majalah-majalah)\n\n
+         تِلْكَ كُتُبٌ
+        (= itu buku-buku); تِلْكَ مَجَلاَّتٌ (= itu majalah-majalah)\n\n
+        2). Bila Isim yang ditunjuk itu adalah berakal, maka baik Isim Mudzakkar maupun Isim Muannats, menggunakan: هَؤُلاَءِ (=ini) untuk menunjuk yang dekat danأُولَئِكَ (=itu) untuk menunjuk yang jauh. Contoh dalam kalimat:\n\n
+
+         هَؤُلاَءِ طُلاَّبٌ
+        (= ini siswa-siswa); هَؤُلاَءِ طَالِبَاتٌ (= ini siswi-siswi)\n\n
+        أُولَئِكَ طُلاَّبٌ
+        (= itu siswa-siswa); أُولَئِكَ طَالِبَاتٌ (= itu siswi-siswi)\n\n
+-
+
+
+    </string>
+
+    <string name="harfujar">
+Pengenalan dan pengertian huruf jar\n\n
+
+Huruf jar adalah huruf-huruf tertentu yang membuat kata benda (isim) menjadi majrur (contoh majrur untuk isim mufrad adalah tanda harakat kasrah).\n\n
+
+Lihat tanda majrur untuk jenis isim lainnya di i\'rab (perubahan) pada isim (kata benda) \n\n
+
+Kaidah huruf jar\n\n
+
+- Huruf jar itu setelahnya adalah isim, ia bersambung pada isim.\n\n
+- Huruf jar itu tidak bersambung pada fi\'il (kata kerja yang terikat waktu).\n\n
+- Huruf jar merupakan tanda pengenal isim.\n\n
+
+
+Contoh dan jumlah huruf jar\n
+Huruf jar berjumlah sembilan huruf, yaitu:\n\n
+
+
+ مِنْ
+        = dari\n
+
+
+ إِلىَ
+        = ke\n
+
+
+
+        عَنْ
+        = dari\n
+
+        عَلىَ
+        = di atas\n
+
+        فِي
+        = di dalam\n
+
+        رُبَّ
+        = banyak/sedikit\n
+
+        ب
+        = dengan\n
+
+        ك
+        = seperti\n
+
+        ل
+        = milik/kepunyaan\n\n
+
+Contoh penggunaan مِنْ adalah:\n\n
+- isim = النَّاسُ , artinya manusia\n\n
+- karena didahului oleh huruf jar مِنْ , maka isim menjadi majrur = النَّاسِ
+        \n\n
+- jadinya = مِنَ النَّاسِ = minan naasi\n\n
+- Artinya = dari manusia.\n\n
+
+Contoh penggunaan إِلىَ  adalah:\n\n
+- isim = السُّوْقُ  , artinya pasar\n\n
+- karena didahului oleh huruf jar إِلىَ  , maka isim menjadi majrur =  السُّوْقِ
+        \n\n
+- jadinya = إِلىَ  السُّوْقِ  = ilas suuqi\n\n
+- artinya = ke pasar\n\n
+
+Contoh penggunaan عَنْ adalah:\n\n
+- isim = النَّبِيُّ  , artinya nabi\n\n
+- karena didahului oleh huruf jar عَنْ , maka isim menjadi majrur = النَّبِيِّ
+        \n\n
+- jadinya = عَنِ النَّبِيِّ  = \'anin nabiyyi\n\n
+- artinya = dari nabi\n\n
+
+Contoh penggunaan عَلىَ adalah:\n\n
+- isim = المَكْتَبُ , artinya meja\n\n
+- karena didahului oleh huruf jar عَلىَ , maka isim menjadi majrur = المَكْتَبِ
+        \n\n
+- jadinya = عَلىَ المَكْتَبِ
+        \n\n
+- artinya = di atas meja\n\n
+
+Contoh penggunaan فِي adalah:\n\n
+- isim = المَسْجِدُ , artinya masjid\n\n
+- karena didahului oleh huruf jar فِي , maka isim menjadi majrur = المَسْجِدِ
+        \n\n
+- jadinya =  فِي المَسْجِدِ  = fil masjidi\n\n
+- artinya = di dalam masjid\n\n
+
+Contoh penggunaan رُبَّ  adalah:\n\n
+- isim = رَجُلٌ عَالِمٌ
+        \n\n
+- karena didahului oleh huruf jar رُبَّ  , maka isim menjadi majrur = رَجُلٍ عَالِمٍ
+        \n\n
+- jadinya = رُبَّ  رَجُلٍ عَالِمٍ  = rubba rojulin \'aalimin\n\n
+- artinya = banyak pemuda alim\n\n
+
+Contoh penggunaan ب adalah:\n\n
+- isim = الْقَلَمُ
+        \n\n
+- karena didahului oleh huruf jar ب , maka isim menjadi majrur = الْقَلَمِ
+        \n\n
+- jadinya = بِالقَلَمِ  = bil qalami\n\n
+- artinya = dengan pena\n\n
+
+Contoh penggunaan ك  adalah:\n\n
+- isim = الْقَمَرُ
+        \n\n
+- karena didahului oleh huruf jar ك , maka isim menjadi majrur = الْقَمَرِ
+        \n\n
+- jadinya = كَالْقَمَرِ   = kal qamari\n\n
+- artinya = seperti bulan\n\n
+
+Contoh penggunaan ل adalah:\n\n
+- isim = الأُسْتَاذُ
+        \n\n
+- karena didahului oleh huruf jar ل , maka isim menjadi majrur الأُسْتَاذِ
+        \n\n
+- jadinya = لِلأُسْتَاذِ  = lil ustaadzi\n\n
+- artinya = milik/kepunyaan ustadz\n\n
+    </string>
+
+    <string name="jumlahkalimat">
+Dalam bahasa arab, Al Jumlah/kalimat ditinjau dari kata yang memulainya terbagi 2 :\n\n
+1. Jumlah ismiyyah (جملة إسمية)
+        \n
+2. Jumlah fi’liyyah(جملة فعلية)
+        \n\n
+
+Penjelasan :\n\n
+
+1. Jumlah ismiyyah\n
+Adalah setiap Al Jumlah yang diawali oleh isim.\n\n
+
+Contoh :\n\n
+
+Al-Waladu yaqra-u Al-Qur\’aana\n (الوَلَدُ يَقْرَأُ القُرْآنَ) = Anak laki-laki itu sedang membaca Al Qur\’an\n\n
+
+\“Al Waladu\” adalah isim. Maka Al jumlah di atas disebut jumlah ismiyyah karena diawali isim.\n\n
+
+Contoh dari Al Qur\’an adalah firman Allah Ta\’ala,\n\n
+
+لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ
+        \n\n
+
+\“Malam Al Qadr itu lebih baik dari seribu bulan\” (QS. Al Qadr : 3)\n\n
+
+Lailah (لَيْلَةُ) adalah isim. Maka Al jumlah di atas adalah jumlah ismiyyah.\n\n
+
+Contoh dari hadits adalah sabda Rasulullah shallallahu \‘alaihi wa sallam,\n\n
+
+الطُّهُورُ شَطْرُ الْإِيمَانِ
+        \n\n
+
+\“Kebersihan itu setengah keimanan\” (HR. Muslim)\n\n
+
+At Thuhur (الطُّهُورُ) adalah isim. Maka Al jumlah di atas adalah jumlah ismiyyah.\n\n
+
+2. Jumlah fi\’liyyah\n
+Adalah setiap Al Jumlah yang diawali oleh fi\’il.\n\n
+
+Contoh :\n\n
+
+Yaqra-u al-waladu Al-Qur\’aan\n (يَقْرَأُ الوَلَدُ القُرْآنَ) = Anak laki-laki itu sedang membaca Al Qur\’an\n\n
+
+Yaqra-u (يَقْرَأُ) adalah fi\’il. Oleh karena itu, Al Jumlah diatas adalah jumlah fi\’liyyah karena diawali fi\’il.\n
+(Al Muyassar fii \‘Ilmi Nahwi, hal. 4)\n\n
+
+Contoh dari Al Qur\’an adalah firman Allah Ta\’ala,\n\n
+
+تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
+        \n\n
+
+\“Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa\” (QS. Al Lahab : 1)\n\n
+
+Tabbat (تَبَّتْ) adalah fi\’il. Maka Al jumlah di atas adalah jumlah fi\’liyyah.\n\n
+
+Contoh dari hadits adalah sabda Rasulullah shallallahu \‘alaihi wa sallam,\n\n
+
+بُنِيَ الإِسْلَامُ عَلَى خَمْسٍ
+        \n\n
+
+\“Islam dibangun di atas 5 perkara\” (HR. Bukhari dan Muslim)\n\n
+Buniya(بُنِيَ) adalah fi\’il. Maka Al jumlah di atas adalah jumlah fi\’liyyah.\n\n
+    </string>
+
+    <string name="mubtada">
+Mubtada (المبتدأ)\n\n
+
+Mubtada adalah setiap isim yang dimulai pada awal kalimat baik didahului oleh nafyu maupun istifham,
+        contoh (محمد مبتسم =Muhammad tersenyum),\n
+        contoh didahului oleh nafyu (ما قادم الضيف = tamu itu tidak datang)\n
+        dan contoh isim yang didahului oleh kata Tanya (أ ناجح عليُّ =apakah yang lulus adalah Ali).\n\n
+        Dan hukum isim yang dimulai pada awal kalimat tersebut (المبتدأ) adalah Marfu\’ (dibaca akhir katanya dengan harakah dhamma),\n
+        kecuali apabila isim tersebut didahului oleh huruf Jarr tambahan atau yang menyerupainya maka hukumnya secara Lafadznya adalah Majrur
+        namun kedudukannya dalam kalimat tetaplah Marfu\’.\n\n
+        Contohnya :\n
+        firman Allah subhannahu wata\'ala :   \n وما من إله إلا الله kata Ilah pada ayat tersebut\n
+        secara lafadznya adalah majrur namun kedudukannya tetaplah Rafa’. \n\n
+        Dan Mubtada terbagi menjadi dua, \n
+        yaitu Mubtada Sharih (مبتدأ صريح) yang mencakup semua isim dhahir seperti pada contoh di atas,\n
+        dan juga terdiri dari Dhamir, contohnya (هو مجتهد = dia bersungguh-sungguh) atau (أنت مخلص = kamu ikhlas),
+        yang Kedua adalah Mubtada Muawwal (مؤول) dari An (أن) dan fi’ilnya, \n\n
+        contohnya \n\n
+
+        firman Allah subhannahu wata\'ala (وأن تصوموا خير لكم) dan (أن تتحدوا أرهب لعدوكم) mubtada pada contoh ini\n
+        adalah An dan Fi\’ilnya dita\’wilkan menjadi isim mashdar sebagai mubtada,\n
+        atau dengan kata lain An dan fi\’ilnya dijadikan mashdar sebagai mubtada sehingga An Tashumu menjadi Shiyamukum\n
+        dan An Tattahidu menjadi itthidadukum karena mashdar dari kata Shama-Yashumu = berpuasa adalah Shiyam\n
+        dan Ittahada-yattahidu = bersatu mashdarnya adalah ittihad,(وأن تصوموا =وصيامكم خير لكم), (أن تتحدوا =اتحادكم أرهب لعدوكم).
+        \n
+        Mubtada boleh terdiri dari banyak kata sedangkan khabarnya hanyalah satu, contohnya (صديقك والده أمنيته تحقيقها أن يشفى ابنه).
+        \n\n
+
+
+Macam-macam Mubtada\n\n
+
+Apabila dilihat dari Khabarnya maka Mubtada terbagi menjadi dua,\n
+        yaitu Mubtada yang mempunyai khabar,\n
+        contohnya (محمد مبتسم) dan Mubtada yang tidak memiliki Khabar,\n
+        akan tetapi mempunyai isim marfu\’yang menempati posisi dari pada khabar,\n
+        contohnya (أنائم الطفل = apakah bayi telah tidur) Naim adalah mubtada sedangkan Thifl adalah Fa\’il yang menempati posisi khabar,\n
+        contoh lain (ما محمود البخل = tidaklah terpuji orang kikir),\n
+        mahmud = terpuji adalah mubtada dan bukhli adalah Naib Fa\’il yang menempati tempatnya khabar.\n
+
+        Mubtada yang memiliki khabar haruslah terdiri dari isim sharih atau dhahir ataupun yang telah dita\’wilkan menjadi mashdar yang sharih, \n
+        sedangkan mubtada yang tidak memiliki khabar tidak boleh menta\’wilkannya dan penggunaanya haruslah selalu disertai dengan Nafyu atau istifham.\n\n
+
+Adapun Isim marfu’yang terletak setelah mubtada yang tidak memiliki khabar yang dibarengi oleh Nafyu atau istifham maka kedudukannya dalam I\’rab kalimat adalah sebagai berikut:\n\n
+
+1. Apabila menunjukkan kepada sifat yang tunggal dan setelahnya adalah isim yang tunggal contohnya (أ مسافر الرجل) atau (ما محبوب الكسول) maka I\’rabnya ada dua kemungkinan,\n\n
+        Pertama : sifat yang pertama setelah istifham (musafir) adalah mubtada dan setelahnya adalah Fa’il karena letaknya setelah Isim Fa\’il, atau Naib Fa\’il apabila terletak setelah isim maf\’ul, keduanya marfu\’menempati kedudukan khabar.\n\n
+        Kedua: Sifat yang pertama (musafir) adalah khabar yang didahulukan (khabar muqaddam) sedangkan kata (rajul) adalah mubtada yang diakhirkan (mubtada muakkhar).\n\n
+
+2. Apabila sifat yang pertama menunjukkan pada isim tunggal kemudian setelahnya adalah Mutsanna (yang menunjukkan bentuk dua) atau Jamak,\n
+        maka sifat yang pertama adalah mubtada dan isim setelahnya tersebut adalah Fa\’il atau naib fa\’il yang menempati posisi khabar,\n
+        contoh (ما مهمل الطالبان) dan (ما محبوب المقصرون) kata Muhmil adalah mubtada sedangkan thalibani adalah Fa\’il karena terletak setelah isim Fa\’il,\n
+        dan kata Mahbub adalah mubtada sedangkan Muqshirun adalah Naíb Fa\’il karena terletak setelah Isim Maf\’ul.\n\n
+
+3. Apabila sifat yang pertama berbentu dua (mutsanna) atau Jamak dan setelahnya adalah mutsanna atau jamak maka isim yang pertama adalah khabar yang didahulukan (khabar muqaddam) dan isim yang setelahnya adalah mubtada yang diakhirkan (mubtada muakkhar), \n
+        contohnya (أ مسافران الضيفان) dan (ما مقصرون المجتهدون),\n
+        kata musafirani dan muqshirun adalah khabar muqaddam sedangkan dhaifani dan mujtahidun adalah Mubtada muakkhar.\n\n
+
+Asal dari Mubtada adalah Ma\’rifah atau mubtada haruslah isim yang ma\’rifah sebagaimana pada contoh-contoh di atas, kecuali apabila didahului oleh nafyu atau istifham maka boleh mubtada itu nakirah dengan catatan kenakirahannya tidaklah mengurangi dan mempengaruhi makna yang dapat diperincikan sebagai berikut:\n\n
+
+a. Nakirah tersebut menunjukkan kekhususan baik dengan menyebutkan sifat atau tidak, ataupun nakirah tersebut secara lafadznya bersandar pada ma\’rifat, contohnya (رجيل عندنا) dan contoh yang idhaf (خمس صلوات كتبهن الله على العباد).\n\n
+
+b. Nakirah yang menunjukkan pada sesuatu yang umum, baik mubtadanya adalah bentuk yang umum, contohnya (من يقم أقم معه), kata man di sini adalah bentuk nakirah yang umum. Maupun mubtada yang nakirah tersebut terletak dalam kalimat yang didahului oleh nafyu atau istifham, contohnya (ما رجل في الدار) dan (هل أحد قادم).\n\n
+
+c. Mubtada yang nakirah haruslah didahului oleh kalimat yang terdiri dari jar majrurr atau dharf, contohnya (في المدرسة زائرون), mubtada di sini adalah nakirah karena di dahului oleh jar majrur, dan (حول البئر أشجار), kata asyjar adalah nakirah karena didahului oleh dzharf.\n\n
+d. Nakirah harus Athaf (mengikuti) pada ma’rifah atau diikutkan pada ma\’rifah, contohnya (محمد ورجل عندنا) kata rajul di sini nakirah karena ikut pada Muhammad. dan (رجل ويوسف في المنزل) kata rajul diikutkan pada yusuf.\n\n
+
+e. Mubtada yang nakirah merupakan jawaban atas pertanyaan, contohnya, ada yang bertanya (من عندك) maka jawabannya (صديق) dengan menggunakan nakirah, takdirnya adalah (صديق عندي).\n\n
+
+f. Terletak setelah Laula (لولا), contoh (لولا رجل لهلك أخوك).\n\n
+
+g. Jika khabarnya adalah sesuatu yang aneh yang keluar dari kebiasaan, contohnya (شجرة سجدت =pohon bersujud).\n\n
+
+Apabila kita melihat dari contoh-contoh di atas dapat dilihat perbedaan kedudukan mubtada yang kadang didahulukan (mubtada muqaddam) dan kadang diakhirkan (mubtada muakkhar), kesemuanya itu mempunyai aturan yang wajib didahulukan maupun boleh didahulukan.\n\n
+
+Wajib mendahulukan Mubtada
+\n\n
+Mubtada itu wajib didahulukan apabila:\n\n
+
+1. Isim yang mempunyai kedudukan sebagai pendahuluan di dalam kalimat, seperti isim syarat,\n
+        atau istifham atau Ma yang menunjukkan ketakjuban, contohnya (من يقرأ الشعر ينم ثروته اللغوية = barangsiapa yang membaca syair maka akan bertambah kekayaannya dengan bahasa),\n
+        kata Man di sini adalah mubtada yang harus di dahulukan karena posisinya dalam kalimat sebagai pembukaan dan pendahuluan, contoh lain (من مسافر غدا =siapakah yang akan bepergian besok), \n
+        kata man di sini adalah kata Tanya yang harus selalu didahulukan dan ia adalah mubtada, \n
+        contoh lain (ما أجمل الربيع = alangkah indahnya musim semi) Kata Ma disini adalah Ma takjub yang mana harus dan wajib didahulukan.\n\n
+
+2. Mubtada yang menyerupai isim syarat, contohnya (الذي يفوزُ فله جائزة =yang menang maka baginya piala), kata allazi dalam kalimat ini menyerupai isim syarat.\n\n
+
+3. Isim tersebut haruslah disandarkan kepada isim yang menempati posisi dan kedudukan kata pendahuluan, contohnya (عمل من أعجبك) kata ‘amal disandarkan pada Man yang kedudukannya sebagai pendahuluan.\n\n
+
+4. Apabila khabarnya adalah jumlah fi\’liyah dan fa\’ilnya adalah dhamir yang tersembunyi yang kembali kepada mubtada, contohnya (محمد يلعب الكرة = Muhammad bermain bola) kata yal\’ab adalah khabar jumlah fi\’liyah dan fa\’ilnya dhamir tersembunyi kembali ke Muhammad.\n\n
+
+5. Isim tersebut haruslah disertai dengan huruf Lam untuk memulai atau Lam tauwkid, contoh (وللدار الآخرة خير للذين يتقون) kata addar dimasuki oleh lam ibtida, dan (ولذكر الله أكبر) dimasuki lam tawkid.\n\n
+
+6. Mubtada dan khabarnya adalah Ma\’rifat atau kedua-duanya nakirah dan tidak adanya kata yang menjelaskannya, contohnya (أبوك محمد) jika ingin memberitahukan tentang bapaknya maka wajib didahulukannya, dan (محمد أبوك) jika ingin memberitahukan tentang Muhammad.\n\n
+
+7. Mubtada teringkas khabarnya oleh Illa atau Innama, contohnya (ما الصدق إلا فضيلة) dan (إنما أنت مهذب).\n\n
+
+Selain dari tujuh masalah di atas, maka boleh mendahulukan atau mengakhirkan mubtada.\n\n
+
+Wajib menghilangkan Mubtada
+\n\n
+Mubtada wajib dihilangkan dalam hal-hal sebagai berikut:\n\n
+
+1. Apabila mubtada ikut kepada Sifat yang marfu\’ dengan tujuan memuji atau menghina atau sebagai rasa iba dan saying, contohnya (مررت بزيدٍ الكريمُ) mubtadanya dihilangkan karena disifati oleh sifat yang rafa\’,
+        asalnya adalah (هو الكريم). Contoh lain (ابتعد عن اللئيم الخبيث = jauhilah dari orang jahat yang jelek sifatnya), asalnya adalah (هو الخبيث) mubtada nya wajib dihilangkan karena disifati oleh sifat yang marfu\”.\n\n
+
+2. Jika menunjukkan jawaban terhadap sumpah, \n
+        contohnya (في ذمتي لأقولن الصدق) asalnya adalah (في ذمتي عهد) dengan menghilangkan mubtadanya yaitu \‘ahd.\n\n
+
+3. Jika khabarnya adalah mashdar yang mengganti fi\’ilnya, \n
+        contohnya (صبر جميل) asalnya adalah (صبري صبر جمل) maka wajib menghilangkan mubtadanya.\n\n
+
+4. Jika khabarnya dikhususkan pada pujian atau cercaan setelah kata Ni\’ma (نعم) dan Bi’sa (بئس) dan terletak diakhir,
+        contohnya (نعم الطالب محمد = alangkah baiknya pelajar yaitu Muhammad) dan (بئس الطالب الكسول = alangkah buruknya pelajar yang pemalas), \n
+        muhammad dan kusul pada contoh di atas adalah khabar dari mubtada yang dihilangkan, asalny adalah (هو محمد) dan (هو الكسول).\n\n
+
+Selain dari empat masalah ini, mubtada juga kebanyakan dihilangkan jika terletak setelah kata qaul (berkata), \n
+        contohnya (ويقولون طاعة) mubtadanya dihilangkan, \n
+        asalnya adalah (أمرنا طاعة), contoh lain, (قالوا أضغات أحلام) dan (وقالت عجوز عقيم) asalnya adalah (هي أضغات) dan (أنا عجوز). \n
+        Atau mubtadanya terletak setelah Fa sebagai jawban dari syarat, contohnya (وإن يخالطوهم فإخوانكم) asalnya adalah (فهم إخوانكم).\n\n
+
+Boleh menghilangkan Mubtada\n\n
+
+Mubtada boleh dihilangkan dan dihapus sebagai jawaban atas pertanyaan orang yang bertanya (كيف محمد)?, \n
+        dan jawabnya (بخير) aslinya adalah (هو بخير), atau Mubtada itu boleh dihilangkan apabila ada kalimat atau kata yang menunjukkan tentangnya,
+        contohnya firman Allah subhannahu wata\'ala (من عمل صالحا فلنفسه ومن أساء فعليها) kata Falinafsihi kedudukannya rafa\’ khabar dan dhamir Ha majrur bil idhafah sedangkan mubtadanya mahzuf (dihilangkan) begitu juga pada wa man asaa fa\’alaiha, asalnya adalah (من عمل صالحا فعمله لنفسه) dan (ومن أساء فإساءته عليها).\n\n
+
+Dan boleh juga menghilangkan Mubtada dan khabarnya apabila ada dalil yang menunjukkan kepadanya,\n
+        contohnya (الذين فازوا في مسابقة الإلقاء لهم جوائز ، والذين ساهموا أيضا) yang dihapus dari kalimat tersebut adalah mubtada dan khabarnya yaitu (لهم جوائز) aslinya haruslah (والذين ساهموا أيضا لهم جوائز) dihapus karena telah dijelaskan pada kalimat sebelumnya.\n\n
+    </string>
+
+    <string name="khobar">
+Khabar (الخبر)\n\n
+
+Sebagaimana telah dijelaskan di atas mengenai Jumlah Ismiah (الجملة الاسمية) yang terdiri dari dua bagian yang memberikan petunjuk serta pemahaman kepada pendengar agar diterima.\n
+        Para pakar Nahwu menyebut bagian pertama dari jumlah ismiah ini dengan Mubtada karena ia adalah bagian yang dimulai dalam pembicaraan, sedangkan bagian keduanya dinamakan Khabar karena ia memberitahukan keadaan yang ada pada mubtada, \n
+        dan bisa saja terdiri dari segala bentuk sifat baik ia isim fa\’il, atau maf\’ul ataupun tafdhil, contohnya, (محمد فاضل) dan (علي محبوب).\n\n
+
+Hukum Khabar\n\n
+
+Para ahli nahwu menyebutkan hukum dari pada khabar adalah sebagai berikut:\n\n
+
+1. Wajib merafa\’ (memberi harakah dhamma) khabar,\n
+        penyebab khabar itu marfu’adalah mubtada ,\n
+        contohnya (أنت كريم) Karim adalah khabar marfu\’disebabkan oleh mubtada. \n
+        Contoh lain (والصلح خير) Khair khabar mubtada marfu\’.\n\n
+
+2. Khabar pada dasarnya haruslah nakirah,\n
+        contohnya (محمد فاضل) fadhil adalah nakirah dan ia khabar mubtada.\n\n
+
+3. Khabar haruslah disesuaikan atau ikut kepada mubtada dari segi tunggalnya atau tasniyah (bentuk duanya) ataupun jamak, \n
+        contoh (الطالب متفوق), (الطالبان متفوقان), dan (الطلاب متفوقون).\n\n
+
+4. Boleh menghilangkan khabarnya apabila ada dalil yang menunjukkan kepadanya, \n
+        dan masalah ini nanti akan dibahas pada pembahasannya.\n\n
+
+5. Wajib menghilangkan khabarnya, masalh ini pun akan dibahas nanti pada pembahasannya.\n\n
+
+6. Khabar boleh banyak dan beragam sedangkan mubtadanya hanya satu, \n
+        contohnya (محمد ذكي فطن) zakiyun dan fithn adalah khabar mubtada, contoh lain (أحمد شاعر خطيب كاتب).\n\n
+
+7. Boleh dan wajib didahulukan khabar dari pada mubtada, dan pembahasan ini pun akan di bahas pada pembahasannya.\n\n
+
+Macam-macam Khabar\n\n
+
+Khabar terbagi menjadi tiga, yaitu:\n\n
+
+1. Khabar Mufrad (المفرد) yaitu khabar yang bukan berbentuk kalimat atau yang menyerupai kalimat, \n
+        akan tetapi terdiri dari satu kata baik menunjukkan pada tunggal atau mutsanna (bentuk dua) ataupun jamak,\n
+        dan harus disesuaikan dengan Mubtada dalam pentazkiran \n
+        (berbentuk muzakkar = lk) atau ta\’nis juga dalam bentuk tunggal, mutsanna dan jamak.\n
+        Contoh (القمر منير = bulan bersinar), (الطالبة مؤدبة = pelajar pr itu sopan).\n\n
+
+2. Khabar Jumlah (جملة), yaitu khabar yang berbentuk kalimat baik jumlah ismiah (اسمية) maupun fi\’liyah (فعليه).\n
+        Contoh khabar jumlah ismiah (الحديقة أشجارها خضراء = taman itu pepohonannya berwarna hijau) \n
+        atau (الثوب لونه ناصع = pakaian itu warnanya bersih),\n
+        Atsaub = adalah mubtada pertama, Lawn = Mubtada kedua dan mudhaf, \n
+        dhamir Hu = mudhaf ilaih, Nashi\’= khabar mubtada kedua,\n
+        Jumlah dari mubtada kedua dan khabarnya menempati posisi rafa\’ yaitu khabar dari mubtada pertama.
+        Adapaun contoh khabar mubtada dari jumlah
+        fi\’liyah, (الأطفال يلعبون في الحديقة = anak-anak bermain di taman) yal\’abun adalah fi\’il mudhari\’marfu\’karena khabar mubtada yang berbentuk jumlah fi\’liyah.\n
+        Khabar jumlah baik ismiah maupun fi\’liyah haruslah berhubungan dengan mubtada.\n\n
+
+3. Khabar syibhu jumlah (شبه الجملة) yaitu khabar yang bukan mufrad atau jumlah akan tetapi menyerupai jumlah, \n
+        terdiri dari Jarr wal majrur (جار ومجرور) dan dharf = kata keterangan,(ظرف). \n\n
+        Contoh khabar dari jar wal majrur (الكتاب في الحقيبة = buku di dalam tas),
+
+        (الماء في الإبريق = air di dalam teko).\n
+        \n
+        Contoh khabar dari dharf makan (keterangan tempat),
+        (الجنة تحت أقدام الأمهات = surga dibawah telapak kaki ibu)
+   \n\n
+        (الطائر فوق الشجرة = burung di atas pohon)
+        \n\n
+        , contoh dharf zaman (keterangan waktu)\n\n
+        , (الرحلة يومَ الخميس = bepergian pada hari kamis)
+        \n\n
+        (السفر بعد أسبوع = akan bepergian setelah seminggu)
+        \n\n
+
+Wajib mendahulukan Khabar\n\n
+
+Khabar wajib di dahulukan dari mubtada dalam keadaan sebagai berikut:\n\n
+
+1. Apabila mubtada nya adalah isim nakirah yang semata-mata tidak untuk memberitahukan dan khabarnya adalah jar wal majrur atau dharf,\ncontohnya (في المدرسة معلمون =di sekolah ada para guru), (عندنا ضيف = ada tamu). \n\n
+        Jika mubtadanya nakirah dengan maksud untuk memberitahukan maka hukumnya boleh didahulukan atau pada tempatnya semula, contohnya (صديق قديم عندنا).\n\n
+
+2. Jika khabarnya adalah istifham (kata Tanya) atau disandarkan pada kata Tanya,\n\n
+        contohnya (كيف حالك = bagaimana kabarmu), (ابن من هذا  =anak siapa ini) atau (أي ساعة السفر = jam berapa perginya).\n\n
+
+3. Apabila ada dhamir yang berhubungan atau bergandengan dengan mubtada sedangkan kembalinya dhamir tersebut kepada khabarnya atau sebagian dari khabarnya,\n
+        contohnya, (في المدرسة طلابها =di sekolah ada murid-murid-nya), (في الحديقة أطفالها =di tama nada anak-anak-nya), dhamir yang ada pada mubtada kembali kepada khabarnya.\n\n
+
+4. Meringkas khabar mubtada dengan Illa (إلا) atau Innama (إنما), \n
+        contohnya, (ما فائز إلا محمد = tiada yang menang kecuali Muhammad), (إنما فائز محمد = yang menang adalah Muhammad),  \n
+        dalam contoh ini kata faiz diringkas atau dipendekkan sebagai sifat dari Muhammad.\n\n
+
+Boleh mendahulukan atau mengakhirkan khabar apabila khabarnya sebagai pengkhususan setelah kata Ni\’ (نعم) ma dan Bi\’sa (بئس), contohnya (نعم الرجل محمد = alangkah baiknya lelaki itu muhammad), (بئس العمل الخيانة = alangkah buruknya perbuatan khianat), \n
+        Muhammad di sini bisa saja mubtada muakkhar dan jumlah fi’liyah sebelumnya adalah khabar muqaddam,\n
+        dan bisa saja mubtadanya dihilangkan dan Muhammad di sini adalah khabarnya, \n
+        karena apabila pengkhususan setelah ni\’ ma dan bi\’ sa didahulukan atas fi\’ilnya maka ia adalah mubtada dan jumlah fi\’liyahnya adalah khabar muakhhar oleh sebab itu boleh didahulukan atau diakhirkan.\n\n
+
+Boleh menghilangkan Khabar\n\n
+
+Khabar boleh dihilangkan apabila terletak setelah Iza al fajaiyah (tiba-tiba), \n
+        contohnya (خرجت فإذا الأسد =saya keluar tiba tiba ada harimau), (وصلت فإذا المطر =saya sampai tiba-tiba hujan), \n
+        khabarnya dihilangkan, asli dari kalimat tersebut adalah (إذا الأسد حاضر) dan (فإذا المطر منهمر).\n
+        Apabila ada dalil yang menjelaskannya maka khabar pun boleh dihilangkan,\n
+        yang dapat ditemukan pada jawaban dari pertanyaan,\n
+        misalanya ada yang bertanya (من غائب =siapa yang alpa?), jawabannya (عليّ) dengan menghapus khabarnya yaitu (عليّ غائب) karena telah dijelaskan pada pertanyaannya. \n
+        Dan apabila jumlah ismiah mengikuti (athf) pada jumlah ismiah yang tidak dihilangkan khabarnya, maka boleh menghilangkan khabar pada jumlah ismiah yang ma\’thuf,\n
+        contohnya (محمد مجتهد وأحمد = muhammad rajin dan ahmad juga), asal dari kalimat di atas (وأحمد مجتهد), dihilangkan khabar jumlah ismiah yang ma\’tuf karena telah dijelaskan pada sebelumnya.\n\n
+
+Wajib menghilangkan Khabar\n\n
+
+Adapun tempat-tempat dimana khabar itu wajib dihilangkan adalah sebagai berikut:\n\n
+
+1. apabila mubtadanya adalah isim yang sharih yang menunjukkan pada sumpah, \n
+        contohnya (لعمرك لأشهدن الحق =demi hidupmu saya bersaksi dengan kebenaran), \n
+        khabarnya wajib dihilangkan, asalnya adalah (لعمرك قسمي).\n\n
+
+2. Khabarnya menunjukkan pada sifat yang mutlak artinya sifat tersebut menunjukkan akan keberadaan dari sesuatu, \n
+        dan hal itu terdapat pada kata yang bergandengan dengan jar majrur atau dharf, \n
+        contohnya (الماء في الإبريق = air berada di dalam teko), (الكتاب فوق المكتب =buku berada di atas meja), \n
+        yang menunjukkan khabarnya telah dihilangkan yaitu (موجود). \n
+        Dan apabila mubtadanya terletak setelah Lau la (لولا) maka khabarnya yang berarti keberadaan pun wajib dihilangkan, \n
+        contohnya (لولا الله لصدمت السيارة الطفل =jika tidak ada Allah, maka mobil akan menabrak anak itu),\n
+        khabar yang dihilangkan adalah kata (موجود) pada contoh ini.\n\n
+
+3. Jika mubtadanya adalah mashdar atau isim tafdhil yang disandarkan pada mashdar dan setelahnya bukanlah khabar melainkan hal yang menduduki tempatnya khabar, \n
+        contohnya (تشجيعي الطالب متفوقا =saya mendukung pelajar yang berprestasi), (: أفضل صلاة العبد خاشعا = sebaik-baik shalatnya sorang hamba dalam keadaan khusu\’) asalnya adalah (أفضل صلاة العبد عند خشوعه).\n\n
+
+4. Khabarnya terletak setelah huruf Wau (واو) yang berarti dengan/bersama (مع),\n
+        contohnya, (كل طالب وزميله = semua pelajar bersama kawanya), \n
+        wau di sini berarti bersama sehingga khabarnya dihilangkan,\n
+        dan khabar yang dihilangkan adalah kata (مقرونان).\n\n
+
+Kesimpulan dan Perhatian\n\n
+
+1. Asal dari pada mubtada adalah ma’rifah sedangkan khabar adalah Nakirah, \n
+        contohnya (الطلاب متفوقون), namun kadang ada mubtada datang dalam bentuk ma\’rifat dan khabarnya pun ma\’rifat, \n
+        contohnya (الله ربنا) dan (محمد نبينا) mubtadanya ma’rifah dan khabarnya pun ma\’rifah karena idhafah. \n
+        Contoh lain (والسابقون السابقون) assabiqun yang pertama adalah mubtada dan yang kedua adalah khabarnya, sama dengan (أنت أنت), \n
+        terdiri dari mubtada dan khabar, tapi bisa juga assabiqun dan anta yang kedua adalah taukid (menegaskan) pada yang pertama.\n\n
+
+2. Jika mubtadanya adalah mashdar marfu\’, maka mubtadanya boleh didahulukan, contohnya (سلام عليكم).\n\n
+
+3. Asal dari khabar mubtada adalah satu, namun boleh saja khabar terhadap mubtada menjadi banyak,\n
+        contohnya (محمد شاعر كاتب قاص) kata penyair, \n
+        penulis dan penulis kisah semuanya adalah khabar dari mubtada yang menunjukkan bolehnya ta’addud khabar terhadap mubtada.\n\n
+
+4. Haruslah memperhatikan pnyesuaian antara khabar dan mubtada,\n
+        sebagaimana yang telah disebutkan pada hukum-hukum khabar di atas,\n
+        akan tetapi ada sebagian ayat-ayat Al Quran yang membingungkan dan menimbulkan kesan bertentangan dengan hukum penyesuaian tersebut,\n
+        padahal jika dilihat dengan seksama ternyata semua itu ada kesesuaian antar keduanya.\n\n
+
+5. Khabar yang terdiri dari jarr dan majrur atau dharf pada dasarnya bukanlah khabar, \n
+        melainkan ia berhubungan dengan kata yang dihilangkan, \n
+        dan kata yang dihilangkan tersebutlah yang marfu\’ yang menunjukkan ia adalah khabar,\n
+        contohnya, (الماء في الإبريق) jarr majrur di sini hanyalah berhubungan dengan kata yang dihilangkan yaitu khabar mubtada,\n
+        takdirnya adalah (كائن) atau (موجود).\n\n
+
+6. Khabar mufrad boleh diikutkan (athaf) kepada khabar jarr majrur, \n
+        contohnya (فهي كالحجارة أو اشد قسوة) aysaddu qaswah khabar yang diathafkan pada jar majrur yaitu kal hijarah.\n\n
+
+7. Boleh memisahkan antara mubtada dan khabar,\n
+        contohnya (وهم بالآخرة هم يوقنون), kata hum adalah mubtada, dan yuqinun adalah khabarnya, \n
+        dipisahkan oleh jar majrur yang berkaitan dengan khabarnya yaitu yuqinun.\n\n
+    </string>
+
+    <string name="hello_word"></string>
+    <string name="translation_text_view">Enter words above for translation</string>
+</resources>
+
+
+
+
